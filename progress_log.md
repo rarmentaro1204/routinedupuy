@@ -14,3 +14,4 @@
 | 2026-08-31 17:00 | Italia | Emilia Romagna | Componentistica / Ventilazione industriale | 25 | 23 | 2 |
 | 2026-08-31 20:00 | Italia | Emilia Romagna | ATEX Equipment/Services | 18 | 18 | 0 |
 | 2026-08-31 21:13 | Italia | Liguria | Cleaning | 15 | 10 | 5 |
+| 2026-08-31 22:13 | Italia | Liguria | Depolverazione / Trattamento aria | 12 | 8 | 5 |
