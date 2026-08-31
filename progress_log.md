@@ -11,3 +11,4 @@
 | 2026-08-31 16:20 | Italia | Emilia Romagna | Depolverazione / Trattamento aria | 33 | 29 | 4 |
 | 2026-08-31 16:32 | Italia | Emilia Romagna | Impiantistica aspirazione industriale | 27 | 23 | 4 |
 
+| 2026-08-31 17:00 | Italia | Emilia Romagna | Componentistica / Ventilazione industriale | 25 | 23 | 2 |
