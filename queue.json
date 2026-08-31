@@ -1,0 +1,3407 @@
+[
+  {
+    "nazione": "Italia",
+    "area": "Toscana",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Toscana",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Toscana",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Toscana",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Toscana",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Emilia Romagna",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Emilia Romagna",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Emilia Romagna",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Emilia Romagna",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Emilia Romagna",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Liguria",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Liguria",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Liguria",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Liguria",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Liguria",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Umbria",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Umbria",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Umbria",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Umbria",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Umbria",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Marche",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Marche",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Marche",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Marche",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Marche",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Abruzzo",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Abruzzo",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Abruzzo",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Abruzzo",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Abruzzo",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Molise",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Molise",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Molise",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Molise",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Molise",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Campania",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Campania",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Campania",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Campania",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Campania",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Puglia",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Puglia",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Puglia",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Puglia",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Puglia",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Basilicata",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Basilicata",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Basilicata",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Basilicata",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Basilicata",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Calabria",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Calabria",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Calabria",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Calabria",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Calabria",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Sicilia",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Sicilia",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Sicilia",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Sicilia",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Sicilia",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Pomurska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Podravska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Koroška",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Savinjska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Zasavska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Posavska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Jugovzhodna Slovenija",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Primorsko-notranjska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Osrednjeslovenska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Gorenjska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Goriška",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Obalno-kraška",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zagrebačka",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zagrebačka",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zagrebačka",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zagrebačka",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zagrebačka",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Krapinsko-zagorska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Krapinsko-zagorska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Krapinsko-zagorska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Krapinsko-zagorska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Krapinsko-zagorska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Sisačko-moslavačka",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Sisačko-moslavačka",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Sisačko-moslavačka",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Sisačko-moslavačka",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Sisačko-moslavačka",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Karlovačka",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Karlovačka",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Karlovačka",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Karlovačka",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Karlovačka",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Varaždinska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Varaždinska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Varaždinska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Varaždinska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Varaždinska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Koprivničko-križevačka",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Koprivničko-križevačka",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Koprivničko-križevačka",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Koprivničko-križevačka",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Koprivničko-križevačka",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Bjelovarsko-bilogorska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Bjelovarsko-bilogorska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Bjelovarsko-bilogorska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Bjelovarsko-bilogorska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Bjelovarsko-bilogorska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Primorsko-goranska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Primorsko-goranska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Primorsko-goranska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Primorsko-goranska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Primorsko-goranska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Ličko-senjska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Ličko-senjska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Ličko-senjska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Ličko-senjska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Ličko-senjska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Virovitičko-podravska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Virovitičko-podravska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Virovitičko-podravska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Virovitičko-podravska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Virovitičko-podravska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Požeško-slavonska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Požeško-slavonska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Požeško-slavonska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Požeško-slavonska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Požeško-slavonska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Brodsko-posavska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Brodsko-posavska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Brodsko-posavska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Brodsko-posavska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Brodsko-posavska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zadarska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zadarska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zadarska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zadarska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zadarska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Osječko-baranjska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Osječko-baranjska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Osječko-baranjska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Osječko-baranjska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Osječko-baranjska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Šibensko-kninska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Šibensko-kninska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Šibensko-kninska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Šibensko-kninska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Šibensko-kninska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Vukovarsko-srijemska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Vukovarsko-srijemska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Vukovarsko-srijemska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Vukovarsko-srijemska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Vukovarsko-srijemska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Splitsko-dalmatinska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Splitsko-dalmatinska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Splitsko-dalmatinska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Splitsko-dalmatinska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Splitsko-dalmatinska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Istarska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Istarska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Istarska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Istarska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Istarska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Dubrovačko-neretvanska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Dubrovačko-neretvanska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Dubrovačko-neretvanska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Dubrovačko-neretvanska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Dubrovačko-neretvanska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Međimurska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Međimurska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Međimurska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Međimurska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Međimurska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Grad Zagreb",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Grad Zagreb",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Grad Zagreb",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Grad Zagreb",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Grad Zagreb",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Grad Beograd",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Grad Beograd",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Grad Beograd",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Grad Beograd",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Grad Beograd",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Mačvanski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Mačvanski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Mačvanski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Mačvanski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Mačvanski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Kolubarski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Kolubarski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Kolubarski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Kolubarski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Kolubarski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Podunavski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Podunavski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Podunavski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Podunavski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Podunavski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Braničevski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Braničevski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Braničevski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Braničevski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Braničevski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Šumadijski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Šumadijski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Šumadijski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Šumadijski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Šumadijski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pomoravski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pomoravski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pomoravski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pomoravski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pomoravski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Borski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Borski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Borski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Borski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Borski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zaječarski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zaječarski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zaječarski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zaječarski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zaječarski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zlatiborski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zlatiborski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zlatiborski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zlatiborski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zlatiborski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Moravički",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Moravički",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Moravički",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Moravički",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Moravički",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Raški",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Raški",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Raški",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Raški",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Raški",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Rasinski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Rasinski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Rasinski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Rasinski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Rasinski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Nišavski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Nišavski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Nišavski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Nišavski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Nišavski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Toplički",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Toplički",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Toplički",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Toplički",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Toplički",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pirotski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pirotski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pirotski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pirotski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pirotski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Jablanički",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Jablanički",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Jablanički",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Jablanički",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Jablanički",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pčinjski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pčinjski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pčinjski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pčinjski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pčinjski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobački",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobački",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobački",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobački",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobački",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Srednjebanatski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Srednjebanatski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Srednjebanatski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Srednjebanatski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Srednjebanatski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobanatski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobanatski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobanatski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobanatski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobanatski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobanatski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobanatski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobanatski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobanatski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobanatski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zapadnobački",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zapadnobački",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zapadnobački",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zapadnobački",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zapadnobački",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobački",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobački",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobački",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobački",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobački",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Sremski",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Sremski",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Sremski",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Sremski",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Sremski",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Unsko-sanski Kanton",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Unsko-sanski Kanton",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Unsko-sanski Kanton",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Unsko-sanski Kanton",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Unsko-sanski Kanton",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Posavski Kanton",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Posavski Kanton",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Posavski Kanton",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Posavski Kanton",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Posavski Kanton",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Tuzlanski Kanton",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Tuzlanski Kanton",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Tuzlanski Kanton",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Tuzlanski Kanton",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Tuzlanski Kanton",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zeničko-dobojski Kanton",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zeničko-dobojski Kanton",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zeničko-dobojski Kanton",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zeničko-dobojski Kanton",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zeničko-dobojski Kanton",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Bosansko-podrinjski Kanton",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Bosansko-podrinjski Kanton",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Bosansko-podrinjski Kanton",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Bosansko-podrinjski Kanton",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Bosansko-podrinjski Kanton",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Srednjobosanski Kanton",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Srednjobosanski Kanton",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Srednjobosanski Kanton",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Srednjobosanski Kanton",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Srednjobosanski Kanton",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Hercegovačko-neretvanski Kanton",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Hercegovačko-neretvanski Kanton",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Hercegovačko-neretvanski Kanton",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Hercegovačko-neretvanski Kanton",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Hercegovačko-neretvanski Kanton",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zapadnohercegovački Kanton",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zapadnohercegovački Kanton",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zapadnohercegovački Kanton",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zapadnohercegovački Kanton",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zapadnohercegovački Kanton",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton Sarajevo",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton Sarajevo",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton Sarajevo",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton Sarajevo",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton Sarajevo",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton 10",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton 10",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton 10",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton 10",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton 10",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Republika Srpska",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Republika Srpska",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Republika Srpska",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Republika Srpska",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Republika Srpska",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Distrikt Brčko",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Distrikt Brčko",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Distrikt Brčko",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Distrikt Brčko",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Distrikt Brčko",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Alba",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Alba",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Alba",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Alba",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Alba",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Arad",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Arad",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Arad",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Arad",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Arad",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Argeș",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Argeș",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Argeș",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Argeș",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Argeș",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bacău",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bacău",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bacău",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bacău",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bacău",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bihor",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bihor",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bihor",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bihor",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bihor",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bistrița-Năsăud",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bistrița-Năsăud",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bistrița-Năsăud",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bistrița-Năsăud",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bistrița-Năsăud",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Botoșani",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Botoșani",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Botoșani",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Botoșani",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Botoșani",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brăila",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brăila",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brăila",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brăila",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brăila",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brașov",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brașov",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brașov",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brașov",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brașov",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Buzău",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Buzău",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Buzău",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Buzău",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Buzău",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Caraș-Severin",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Caraș-Severin",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Caraș-Severin",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Caraș-Severin",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Caraș-Severin",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Călărași",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Călărași",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Călărași",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Călărași",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Călărași",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Cluj",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Cluj",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Cluj",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Cluj",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Cluj",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Constanța",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Constanța",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Constanța",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Constanța",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Constanța",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Covasna",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Covasna",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Covasna",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Covasna",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Covasna",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dâmbovița",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dâmbovița",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dâmbovița",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dâmbovița",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dâmbovița",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dolj",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dolj",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dolj",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dolj",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dolj",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Galați",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Galați",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Galați",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Galați",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Galați",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Giurgiu",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Giurgiu",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Giurgiu",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Giurgiu",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Giurgiu",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Gorj",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Gorj",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Gorj",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Gorj",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Gorj",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Harghita",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Harghita",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Harghita",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Harghita",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Harghita",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Hunedoara",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Hunedoara",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Hunedoara",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Hunedoara",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Hunedoara",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ialomița",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ialomița",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ialomița",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ialomița",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ialomița",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Iași",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Iași",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Iași",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Iași",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Iași",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ilfov",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ilfov",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ilfov",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ilfov",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ilfov",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Maramureș",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Maramureș",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Maramureș",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Maramureș",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Maramureș",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mehedinți",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mehedinți",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mehedinți",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mehedinți",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mehedinți",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mureș",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mureș",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mureș",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mureș",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mureș",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Neamț",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Neamț",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Neamț",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Neamț",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Neamț",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Olt",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Olt",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Olt",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Olt",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Olt",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Prahova",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Prahova",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Prahova",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Prahova",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Prahova",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Satu Mare",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Satu Mare",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Satu Mare",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Satu Mare",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Satu Mare",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sălaj",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sălaj",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sălaj",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sălaj",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sălaj",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sibiu",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sibiu",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sibiu",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sibiu",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sibiu",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Suceava",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Suceava",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Suceava",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Suceava",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Suceava",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Teleorman",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Teleorman",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Teleorman",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Teleorman",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Teleorman",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Timiș",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Timiș",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Timiș",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Timiș",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Timiș",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Tulcea",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Tulcea",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Tulcea",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Tulcea",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Tulcea",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vaslui",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vaslui",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vaslui",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vaslui",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vaslui",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vâlcea",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vâlcea",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vâlcea",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vâlcea",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vâlcea",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vrancea",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vrancea",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vrancea",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vrancea",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vrancea",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "București",
+    "settore": "Cleaning"
+  },
+  {
+    "nazione": "Romania",
+    "area": "București",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Romania",
+    "area": "București",
+    "settore": "Impiantistica aspirazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "București",
+    "settore": "Componentistica / Ventilazione industriale"
+  },
+  {
+    "nazione": "Romania",
+    "area": "București",
+    "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Blagoevgrad",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Burgas",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Dobrich",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Gabrovo",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Haskovo",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Kardzhali",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Kyustendil",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Lovech",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Montana",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Pazardzhik",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Pernik",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Pleven",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Plovdiv",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Razgrad",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Ruse",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Shumen",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Silistra",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Sliven",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Smolyan",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Sofia Province",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Sofia City",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Stara Zagora",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Targovishte",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Varna",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Veliko Tarnovo",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Vidin",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Vratsa",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Yambol",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Adana",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Adıyaman",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Afyonkarahisar",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ağrı",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Amasya",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ankara",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Antalya",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Artvin",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Aydın",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Balıkesir",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bilecik",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bingöl",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bitlis",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bolu",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Burdur",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bursa",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Çanakkale",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Çankırı",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Çorum",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Denizli",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Diyarbakır",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Edirne",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Elazığ",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Erzincan",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Erzurum",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Eskişehir",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Gaziantep",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Giresun",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Gümüşhane",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Hakkâri",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Hatay",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Isparta",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Mersin",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "İstanbul",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "İzmir",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kars",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kastamonu",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kayseri",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kırklareli",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kırşehir",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kocaeli",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Konya",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kütahya",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Malatya",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Manisa",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kahramanmaraş",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Mardin",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Muğla",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Muş",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Nevşehir",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Niğde",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ordu",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Rize",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Sakarya",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Samsun",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Siirt",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Sinop",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Sivas",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Tekirdağ",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Tokat",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Trabzon",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Tunceli",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Şanlıurfa",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Uşak",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Van",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Yozgat",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Zonguldak",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Aksaray",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bayburt",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Karaman",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kırıkkale",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Batman",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Şırnak",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bartın",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ardahan",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Iğdır",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Yalova",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Karabük",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kilis",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Osmaniye",
+    "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Düzce",
+    "settore": "Depolverazione / Trattamento aria"
+  }
+]
