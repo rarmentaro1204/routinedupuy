@@ -1,4 +1,8 @@
 {
-  "last_run_at": null,
-  "processed_files": []
+  "last_run_at": "2026-08-31T09:58:00Z",
+  "processed_files": [
+    "2026-08-31_08_Italia_Toscana_Cleaning.xlsx",
+    "2026-08-31_09_Italia_Toscana_Depolverazione_Trattamento_aria.xlsx",
+    "2026-08-31_10_Italia_Toscana_Impiantistica_aspirazione_industriale.xlsx"
+  ]
 }
