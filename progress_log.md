@@ -16,3 +16,4 @@
 | 2026-08-31 21:13 | Italia | Liguria | Cleaning | 15 | 10 | 5 |
 | 2026-08-31 22:13 | Italia | Liguria | Depolverazione / Trattamento aria | 12 | 8 | 5 |
 | 2026-08-31 23:13 | Italia | Liguria | Impiantistica aspirazione industriale | 11 | 8 | 5 |
+| 2026-09-01 00:15 | Italia | Liguria | Componentistica / Ventilazione industriale | 17 | 14 | 3 |
