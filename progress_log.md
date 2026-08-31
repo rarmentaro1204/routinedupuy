@@ -12,3 +12,4 @@
 | 2026-08-31 16:32 | Italia | Emilia Romagna | Impiantistica aspirazione industriale | 27 | 23 | 4 |
 
 | 2026-08-31 17:00 | Italia | Emilia Romagna | Componentistica / Ventilazione industriale | 25 | 23 | 2 |
+| 2026-08-31 20:00 | Italia | Emilia Romagna | ATEX Equipment/Services | 18 | 18 | 0 |
