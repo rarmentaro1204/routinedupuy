@@ -37,3 +37,4 @@
 | 2026-09-01 20:12 | Italia | Marche | Depolverazione / Trattamento aria | 12 | 10 | 2 |
 | 2026-09-01 21:13 | Italia | Marche | Impiantistica aspirazione industriale | 13 | 11 | 2 |
 | 2026-09-01 22:17 | Italia | Marche | Componentistica / Ventilazione industriale | 18 | 18 | 0 |
+| 2026-09-01 23:15 | Italia | Marche | ATEX Equipment/Services | 7 | 3 | 4 |
