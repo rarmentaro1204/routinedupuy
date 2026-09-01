@@ -19,3 +19,4 @@
 | 2026-09-01 00:15 | Italia | Liguria | Componentistica / Ventilazione industriale | 17 | 14 | 3 |
 | 2026-09-01 01:13 | Italia | Liguria | ATEX Equipment/Services | 8 | 6 | 2 |
 | 2026-09-01 02:15 | Italia | Umbria | Cleaning | 16 | 12 | 4 |
+| 2026-09-01 03:13 | Italia | Umbria | Depolverazione / Trattamento aria | 9 | 5 | 4 |
