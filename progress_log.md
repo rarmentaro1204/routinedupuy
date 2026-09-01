@@ -22,3 +22,4 @@
 | 2026-09-01 03:13 | Italia | Umbria | Depolverazione / Trattamento aria | 9 | 5 | 4 |
 | 2026-09-01 04:14 | Italia | Umbria | Impiantistica aspirazione industriale | 9 | 3 | 6 |
 | 2026-09-01 05:11 | Italia | Umbria | Componentistica / Ventilazione industriale | 12 | 8 | 4 |
+| 2026-09-01 06:13 | Italia | Umbria | ATEX Equipment/Services | 16 | 7 | 9 |
