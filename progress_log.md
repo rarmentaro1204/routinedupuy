@@ -32,3 +32,4 @@
 | 2026-09-01 11:33 | Italia | Liguria | Utensilerie e Macchine Utensili | 23 | 21 | 2 |
 | 2026-09-01 12:23 | Italia | Liguria | Metalworking / Lavorazioni Metalliche | 14 | 14 | 0 |
 | 2026-09-01 15:00 | Italia | Umbria | Utensilerie e Macchine Utensili | 14 | 14 | 0 |
+| 2026-09-01 18:15 | Italia | Umbria | Metalworking / Lavorazioni Metalliche | 16 | 13 | 3 |
