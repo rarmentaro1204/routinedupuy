@@ -35,3 +35,4 @@
 | 2026-09-01 18:15 | Italia | Umbria | Metalworking / Lavorazioni Metalliche | 16 | 13 | 3 |
 | 2026-09-01 19:13 | Italia | Marche | Cleaning | 13 | 13 | 0 |
 | 2026-09-01 20:12 | Italia | Marche | Depolverazione / Trattamento aria | 12 | 10 | 2 |
+| 2026-09-01 21:13 | Italia | Marche | Impiantistica aspirazione industriale | 13 | 11 | 2 |
