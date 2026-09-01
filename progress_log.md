@@ -39,3 +39,4 @@
 | 2026-09-01 22:17 | Italia | Marche | Componentistica / Ventilazione industriale | 18 | 18 | 0 |
 | 2026-09-01 23:15 | Italia | Marche | ATEX Equipment/Services | 7 | 3 | 4 |
 | 2026-09-02 00:13 | Italia | Marche | Utensilerie e Macchine Utensili | 22 | 16 | 6 |
+| 2026-09-02 01:12 | Italia | Marche | Metalworking / Lavorazioni Metalliche | 9 | 7 | 2 |
