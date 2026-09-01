@@ -26,3 +26,4 @@
 | 2026-09-01 05:11 | Italia | Umbria | Componentistica / Ventilazione industriale | 12 | 8 | 4 |
 | 2026-09-01 06:13 | Italia | Umbria | ATEX Equipment/Services | 16 | 7 | 9 |
 | 2026-09-01 08:49 | Italia | Toscana | Utensilerie e Macchine Utensili | 29 | 21 | 8 |
+| 2026-09-01 09:00 | Italia | Toscana | Metalworking / Lavorazioni Metalliche | 71 | 58 | 11 |
