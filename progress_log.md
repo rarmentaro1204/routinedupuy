@@ -30,3 +30,4 @@
 | 2026-09-01 09:00 | Italia | Toscana | Metalworking / Lavorazioni Metalliche | 71 | 58 | 11 |
 | 2026-09-01 10:56 | Italia | Emilia Romagna | Metalworking / Lavorazioni Metalliche | 23 | 16 | 7 |
 | 2026-09-01 11:33 | Italia | Liguria | Utensilerie e Macchine Utensili | 23 | 21 | 2 |
+| 2026-09-01 12:23 | Italia | Liguria | Metalworking / Lavorazioni Metalliche | 14 | 14 | 0 |
