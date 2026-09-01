@@ -1,5 +1,7 @@
 # Progress Log
 
+--- MIGRAZIONE SETTORI: aggiunti 'Utensilerie e Macchine Utensili' e 'Metalworking / Lavorazioni Metalliche' a tutti i paesi, queue rigenerata (1127 voci rimanenti) il 2026-09-01 08:41 ---
+
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
 | 2026-08-31 08:00 | Italia | Toscana | Cleaning | 21 | 17 | 4 |

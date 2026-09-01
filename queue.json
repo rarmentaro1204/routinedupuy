@@ -2,102 +2,42 @@
   {
     "nazione": "Italia",
     "area": "Toscana",
-    "settore": "Cleaning"
+    "settore": "Utensilerie e Macchine Utensili"
   },
   {
     "nazione": "Italia",
     "area": "Toscana",
-    "settore": "Depolverazione / Trattamento aria"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Toscana",
-    "settore": "Impiantistica aspirazione industriale"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Toscana",
-    "settore": "Componentistica / Ventilazione industriale"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Toscana",
-    "settore": "ATEX Equipment/Services"
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Italia",
     "area": "Emilia Romagna",
-    "settore": "Cleaning"
+    "settore": "Utensilerie e Macchine Utensili"
   },
   {
     "nazione": "Italia",
     "area": "Emilia Romagna",
-    "settore": "Depolverazione / Trattamento aria"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Emilia Romagna",
-    "settore": "Impiantistica aspirazione industriale"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Emilia Romagna",
-    "settore": "Componentistica / Ventilazione industriale"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Emilia Romagna",
-    "settore": "ATEX Equipment/Services"
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Italia",
     "area": "Liguria",
-    "settore": "Cleaning"
+    "settore": "Utensilerie e Macchine Utensili"
   },
   {
     "nazione": "Italia",
     "area": "Liguria",
-    "settore": "Depolverazione / Trattamento aria"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Liguria",
-    "settore": "Impiantistica aspirazione industriale"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Liguria",
-    "settore": "Componentistica / Ventilazione industriale"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Liguria",
-    "settore": "ATEX Equipment/Services"
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Italia",
     "area": "Umbria",
-    "settore": "Cleaning"
+    "settore": "Utensilerie e Macchine Utensili"
   },
   {
     "nazione": "Italia",
     "area": "Umbria",
-    "settore": "Depolverazione / Trattamento aria"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Umbria",
-    "settore": "Impiantistica aspirazione industriale"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Umbria",
-    "settore": "Componentistica / Ventilazione industriale"
-  },
-  {
-    "nazione": "Italia",
-    "area": "Umbria",
-    "settore": "ATEX Equipment/Services"
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Italia",
@@ -126,6 +66,16 @@
   },
   {
     "nazione": "Italia",
+    "area": "Marche",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Marche",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Italia",
     "area": "Abruzzo",
     "settore": "Cleaning"
   },
@@ -148,6 +98,16 @@
     "nazione": "Italia",
     "area": "Abruzzo",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Abruzzo",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Abruzzo",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Italia",
@@ -176,6 +136,16 @@
   },
   {
     "nazione": "Italia",
+    "area": "Molise",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Molise",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Italia",
     "area": "Campania",
     "settore": "Cleaning"
   },
@@ -198,6 +168,16 @@
     "nazione": "Italia",
     "area": "Campania",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Campania",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Campania",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Italia",
@@ -226,6 +206,16 @@
   },
   {
     "nazione": "Italia",
+    "area": "Puglia",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Puglia",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Italia",
     "area": "Basilicata",
     "settore": "Cleaning"
   },
@@ -251,6 +241,16 @@
   },
   {
     "nazione": "Italia",
+    "area": "Basilicata",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Basilicata",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Italia",
     "area": "Calabria",
     "settore": "Cleaning"
   },
@@ -276,6 +276,16 @@
   },
   {
     "nazione": "Italia",
+    "area": "Calabria",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Calabria",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Italia",
     "area": "Sicilia",
     "settore": "Cleaning"
   },
@@ -298,6 +308,16 @@
     "nazione": "Italia",
     "area": "Sicilia",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Sicilia",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Italia",
+    "area": "Sicilia",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Slovenia",
@@ -306,8 +326,28 @@
   },
   {
     "nazione": "Slovenia",
+    "area": "Pomurska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Pomurska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Slovenia",
     "area": "Podravska",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Podravska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Podravska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Slovenia",
@@ -316,8 +356,28 @@
   },
   {
     "nazione": "Slovenia",
+    "area": "Koroška",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Koroška",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Slovenia",
     "area": "Savinjska",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Savinjska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Savinjska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Slovenia",
@@ -326,8 +386,28 @@
   },
   {
     "nazione": "Slovenia",
+    "area": "Zasavska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Zasavska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Slovenia",
     "area": "Posavska",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Posavska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Posavska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Slovenia",
@@ -336,8 +416,28 @@
   },
   {
     "nazione": "Slovenia",
+    "area": "Jugovzhodna Slovenija",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Jugovzhodna Slovenija",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Slovenia",
     "area": "Primorsko-notranjska",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Primorsko-notranjska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Primorsko-notranjska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Slovenia",
@@ -346,8 +446,28 @@
   },
   {
     "nazione": "Slovenia",
+    "area": "Osrednjeslovenska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Osrednjeslovenska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Slovenia",
     "area": "Gorenjska",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Gorenjska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Gorenjska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Slovenia",
@@ -356,10 +476,30 @@
   },
   {
     "nazione": "Slovenia",
+    "area": "Goriška",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Goriška",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Slovenia",
     "area": "Obalno-kraška",
     "settore": "Depolverazione / Trattamento aria"
   },
   {
+    "nazione": "Slovenia",
+    "area": "Obalno-kraška",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Slovenia",
+    "area": "Obalno-kraška",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
     "nazione": "Croazia",
     "area": "Zagrebačka",
     "settore": "Cleaning"
@@ -383,6 +523,16 @@
     "nazione": "Croazia",
     "area": "Zagrebačka",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zagrebačka",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zagrebačka",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Croazia",
@@ -411,6 +561,16 @@
   },
   {
     "nazione": "Croazia",
+    "area": "Krapinsko-zagorska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Krapinsko-zagorska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
     "area": "Sisačko-moslavačka",
     "settore": "Cleaning"
   },
@@ -433,6 +593,16 @@
     "nazione": "Croazia",
     "area": "Sisačko-moslavačka",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Sisačko-moslavačka",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Sisačko-moslavačka",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Croazia",
@@ -461,6 +631,16 @@
   },
   {
     "nazione": "Croazia",
+    "area": "Karlovačka",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Karlovačka",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
     "area": "Varaždinska",
     "settore": "Cleaning"
   },
@@ -483,6 +663,16 @@
     "nazione": "Croazia",
     "area": "Varaždinska",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Varaždinska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Varaždinska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Croazia",
@@ -511,6 +701,16 @@
   },
   {
     "nazione": "Croazia",
+    "area": "Koprivničko-križevačka",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Koprivničko-križevačka",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
     "area": "Bjelovarsko-bilogorska",
     "settore": "Cleaning"
   },
@@ -533,6 +733,16 @@
     "nazione": "Croazia",
     "area": "Bjelovarsko-bilogorska",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Bjelovarsko-bilogorska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Bjelovarsko-bilogorska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Croazia",
@@ -561,6 +771,16 @@
   },
   {
     "nazione": "Croazia",
+    "area": "Primorsko-goranska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Primorsko-goranska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
     "area": "Ličko-senjska",
     "settore": "Cleaning"
   },
@@ -586,28 +806,48 @@
   },
   {
     "nazione": "Croazia",
-    "area": "Virovitičko-podravska",
+    "area": "Ličko-senjska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Ličko-senjska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Virovitico-podravska",
     "settore": "Cleaning"
   },
   {
     "nazione": "Croazia",
-    "area": "Virovitičko-podravska",
+    "area": "Virovitico-podravska",
     "settore": "Depolverazione / Trattamento aria"
   },
   {
     "nazione": "Croazia",
-    "area": "Virovitičko-podravska",
+    "area": "Virovitico-podravska",
     "settore": "Impiantistica aspirazione industriale"
   },
   {
     "nazione": "Croazia",
-    "area": "Virovitičko-podravska",
+    "area": "Virovitico-podravska",
     "settore": "Componentistica / Ventilazione industriale"
   },
   {
     "nazione": "Croazia",
-    "area": "Virovitičko-podravska",
+    "area": "Virovitico-podravska",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Virovitico-podravska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Virovitico-podravska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Croazia",
@@ -636,6 +876,16 @@
   },
   {
     "nazione": "Croazia",
+    "area": "Požeško-slavonska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Požeško-slavonska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
     "area": "Brodsko-posavska",
     "settore": "Cleaning"
   },
@@ -658,6 +908,16 @@
     "nazione": "Croazia",
     "area": "Brodsko-posavska",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Brodsko-posavska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Brodsko-posavska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Croazia",
@@ -686,6 +946,16 @@
   },
   {
     "nazione": "Croazia",
+    "area": "Zadarska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Zadarska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
     "area": "Osječko-baranjska",
     "settore": "Cleaning"
   },
@@ -708,6 +978,16 @@
     "nazione": "Croazia",
     "area": "Osječko-baranjska",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Osječko-baranjska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Osječko-baranjska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Croazia",
@@ -736,6 +1016,16 @@
   },
   {
     "nazione": "Croazia",
+    "area": "Šibensko-kninska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Šibensko-kninska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
     "area": "Vukovarsko-srijemska",
     "settore": "Cleaning"
   },
@@ -758,6 +1048,16 @@
     "nazione": "Croazia",
     "area": "Vukovarsko-srijemska",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Vukovarsko-srijemska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Vukovarsko-srijemska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Croazia",
@@ -786,6 +1086,16 @@
   },
   {
     "nazione": "Croazia",
+    "area": "Splitsko-dalmatinska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Splitsko-dalmatinska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
     "area": "Istarska",
     "settore": "Cleaning"
   },
@@ -808,6 +1118,16 @@
     "nazione": "Croazia",
     "area": "Istarska",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Istarska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Istarska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Croazia",
@@ -836,6 +1156,16 @@
   },
   {
     "nazione": "Croazia",
+    "area": "Dubrovačko-neretvanska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Dubrovačko-neretvanska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
     "area": "Međimurska",
     "settore": "Cleaning"
   },
@@ -861,6 +1191,16 @@
   },
   {
     "nazione": "Croazia",
+    "area": "Međimurska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Međimurska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Croazia",
     "area": "Grad Zagreb",
     "settore": "Cleaning"
   },
@@ -883,6 +1223,16 @@
     "nazione": "Croazia",
     "area": "Grad Zagreb",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Grad Zagreb",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Croazia",
+    "area": "Grad Zagreb",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -911,6 +1261,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Grad Beograd",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Grad Beograd",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Mačvanski",
     "settore": "Cleaning"
   },
@@ -933,6 +1293,16 @@
     "nazione": "Serbia",
     "area": "Mačvanski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Mačvanski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Mačvanski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -961,6 +1331,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Kolubarski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Kolubarski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Podunavski",
     "settore": "Cleaning"
   },
@@ -983,6 +1363,16 @@
     "nazione": "Serbia",
     "area": "Podunavski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Podunavski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Podunavski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -1011,6 +1401,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Braničevski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Braničevski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Šumadijski",
     "settore": "Cleaning"
   },
@@ -1033,6 +1433,16 @@
     "nazione": "Serbia",
     "area": "Šumadijski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Šumadijski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Šumadijski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -1061,6 +1471,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Pomoravski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pomoravski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Borski",
     "settore": "Cleaning"
   },
@@ -1083,6 +1503,16 @@
     "nazione": "Serbia",
     "area": "Borski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Borski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Borski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -1111,6 +1541,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Zaječarski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zaječarski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Zlatiborski",
     "settore": "Cleaning"
   },
@@ -1133,6 +1573,16 @@
     "nazione": "Serbia",
     "area": "Zlatiborski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zlatiborski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zlatiborski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -1161,6 +1611,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Moravički",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Moravički",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Raški",
     "settore": "Cleaning"
   },
@@ -1183,6 +1643,16 @@
     "nazione": "Serbia",
     "area": "Raški",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Raški",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Raški",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -1211,6 +1681,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Rasinski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Rasinski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Nišavski",
     "settore": "Cleaning"
   },
@@ -1233,6 +1713,16 @@
     "nazione": "Serbia",
     "area": "Nišavski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Nišavski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Nišavski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -1261,6 +1751,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Toplički",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Toplički",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Pirotski",
     "settore": "Cleaning"
   },
@@ -1283,6 +1783,16 @@
     "nazione": "Serbia",
     "area": "Pirotski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pirotski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pirotski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -1311,6 +1821,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Jablanički",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Jablanički",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Pčinjski",
     "settore": "Cleaning"
   },
@@ -1333,6 +1853,16 @@
     "nazione": "Serbia",
     "area": "Pčinjski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pčinjski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Pčinjski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -1361,6 +1891,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Severnobački",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobački",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Srednjebanatski",
     "settore": "Cleaning"
   },
@@ -1383,6 +1923,16 @@
     "nazione": "Serbia",
     "area": "Srednjebanatski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Srednjebanatski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Srednjebanatski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -1411,6 +1961,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Severnobanatski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Severnobanatski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Južnobanatski",
     "settore": "Cleaning"
   },
@@ -1433,6 +1993,16 @@
     "nazione": "Serbia",
     "area": "Južnobanatski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobanatski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobanatski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Serbia",
@@ -1461,6 +2031,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Zapadnobački",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Zapadnobački",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Južnobački",
     "settore": "Cleaning"
   },
@@ -1486,6 +2066,16 @@
   },
   {
     "nazione": "Serbia",
+    "area": "Južnobački",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Južnobački",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Serbia",
     "area": "Sremski",
     "settore": "Cleaning"
   },
@@ -1508,6 +2098,16 @@
     "nazione": "Serbia",
     "area": "Sremski",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Sremski",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Serbia",
+    "area": "Sremski",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bosnia Erzegovina",
@@ -1536,6 +2136,16 @@
   },
   {
     "nazione": "Bosnia Erzegovina",
+    "area": "Unsko-sanski Kanton",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Unsko-sanski Kanton",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
     "area": "Posavski Kanton",
     "settore": "Cleaning"
   },
@@ -1558,6 +2168,16 @@
     "nazione": "Bosnia Erzegovina",
     "area": "Posavski Kanton",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Posavski Kanton",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Posavski Kanton",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bosnia Erzegovina",
@@ -1586,6 +2206,16 @@
   },
   {
     "nazione": "Bosnia Erzegovina",
+    "area": "Tuzlanski Kanton",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Tuzlanski Kanton",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
     "area": "Zeničko-dobojski Kanton",
     "settore": "Cleaning"
   },
@@ -1608,6 +2238,16 @@
     "nazione": "Bosnia Erzegovina",
     "area": "Zeničko-dobojski Kanton",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zeničko-dobojski Kanton",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zeničko-dobojski Kanton",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bosnia Erzegovina",
@@ -1636,6 +2276,16 @@
   },
   {
     "nazione": "Bosnia Erzegovina",
+    "area": "Bosansko-podrinjski Kanton",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Bosansko-podrinjski Kanton",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
     "area": "Srednjobosanski Kanton",
     "settore": "Cleaning"
   },
@@ -1658,6 +2308,16 @@
     "nazione": "Bosnia Erzegovina",
     "area": "Srednjobosanski Kanton",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Srednjobosanski Kanton",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Srednjobosanski Kanton",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bosnia Erzegovina",
@@ -1686,6 +2346,16 @@
   },
   {
     "nazione": "Bosnia Erzegovina",
+    "area": "Hercegovačko-neretvanski Kanton",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Hercegovačko-neretvanski Kanton",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
     "area": "Zapadnohercegovački Kanton",
     "settore": "Cleaning"
   },
@@ -1708,6 +2378,16 @@
     "nazione": "Bosnia Erzegovina",
     "area": "Zapadnohercegovački Kanton",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zapadnohercegovački Kanton",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Zapadnohercegovački Kanton",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bosnia Erzegovina",
@@ -1736,6 +2416,16 @@
   },
   {
     "nazione": "Bosnia Erzegovina",
+    "area": "Kanton Sarajevo",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton Sarajevo",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
     "area": "Kanton 10",
     "settore": "Cleaning"
   },
@@ -1758,6 +2448,16 @@
     "nazione": "Bosnia Erzegovina",
     "area": "Kanton 10",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton 10",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Kanton 10",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bosnia Erzegovina",
@@ -1786,6 +2486,16 @@
   },
   {
     "nazione": "Bosnia Erzegovina",
+    "area": "Republika Srpska",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Republika Srpska",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
     "area": "Distrikt Brčko",
     "settore": "Cleaning"
   },
@@ -1810,6 +2520,16 @@
     "settore": "ATEX Equipment/Services"
   },
   {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Distrikt Brčko",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bosnia Erzegovina",
+    "area": "Distrikt Brčko",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
     "nazione": "Romania",
     "area": "Alba",
     "settore": "Cleaning"
@@ -1833,6 +2553,16 @@
     "nazione": "Romania",
     "area": "Alba",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Alba",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Alba",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -1861,6 +2591,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Arad",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Arad",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Argeș",
     "settore": "Cleaning"
   },
@@ -1883,6 +2623,16 @@
     "nazione": "Romania",
     "area": "Argeș",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Argeș",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Argeș",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -1911,6 +2661,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Bacău",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bacău",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Bihor",
     "settore": "Cleaning"
   },
@@ -1933,6 +2693,16 @@
     "nazione": "Romania",
     "area": "Bihor",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bihor",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bihor",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -1961,6 +2731,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Bistrița-Năsăud",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Bistrița-Năsăud",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Botoșani",
     "settore": "Cleaning"
   },
@@ -1983,6 +2763,16 @@
     "nazione": "Romania",
     "area": "Botoșani",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Botoșani",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Botoșani",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2011,6 +2801,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Brăila",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brăila",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Brașov",
     "settore": "Cleaning"
   },
@@ -2033,6 +2833,16 @@
     "nazione": "Romania",
     "area": "Brașov",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brașov",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Brașov",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2061,6 +2871,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Buzău",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Buzău",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Caraș-Severin",
     "settore": "Cleaning"
   },
@@ -2083,6 +2903,16 @@
     "nazione": "Romania",
     "area": "Caraș-Severin",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Caraș-Severin",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Caraș-Severin",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2111,6 +2941,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Călărași",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Călărași",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Cluj",
     "settore": "Cleaning"
   },
@@ -2133,6 +2973,16 @@
     "nazione": "Romania",
     "area": "Cluj",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Cluj",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Cluj",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2161,6 +3011,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Constanța",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Constanța",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Covasna",
     "settore": "Cleaning"
   },
@@ -2183,6 +3043,16 @@
     "nazione": "Romania",
     "area": "Covasna",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Covasna",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Covasna",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2211,6 +3081,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Dâmbovița",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dâmbovița",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Dolj",
     "settore": "Cleaning"
   },
@@ -2233,6 +3113,16 @@
     "nazione": "Romania",
     "area": "Dolj",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dolj",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Dolj",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2261,6 +3151,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Galați",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Galați",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Giurgiu",
     "settore": "Cleaning"
   },
@@ -2283,6 +3183,16 @@
     "nazione": "Romania",
     "area": "Giurgiu",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Giurgiu",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Giurgiu",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2311,6 +3221,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Gorj",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Gorj",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Harghita",
     "settore": "Cleaning"
   },
@@ -2333,6 +3253,16 @@
     "nazione": "Romania",
     "area": "Harghita",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Harghita",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Harghita",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2361,6 +3291,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Hunedoara",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Hunedoara",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Ialomița",
     "settore": "Cleaning"
   },
@@ -2383,6 +3323,16 @@
     "nazione": "Romania",
     "area": "Ialomița",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ialomița",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ialomița",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2411,6 +3361,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Iași",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Iași",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Ilfov",
     "settore": "Cleaning"
   },
@@ -2433,6 +3393,16 @@
     "nazione": "Romania",
     "area": "Ilfov",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ilfov",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Ilfov",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2461,6 +3431,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Maramureș",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Maramureș",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Mehedinți",
     "settore": "Cleaning"
   },
@@ -2483,6 +3463,16 @@
     "nazione": "Romania",
     "area": "Mehedinți",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mehedinți",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mehedinți",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2511,6 +3501,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Mureș",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Mureș",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Neamț",
     "settore": "Cleaning"
   },
@@ -2533,6 +3533,16 @@
     "nazione": "Romania",
     "area": "Neamț",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Neamț",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Neamț",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2561,6 +3571,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Olt",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Olt",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Prahova",
     "settore": "Cleaning"
   },
@@ -2583,6 +3603,16 @@
     "nazione": "Romania",
     "area": "Prahova",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Prahova",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Prahova",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2611,6 +3641,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Satu Mare",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Satu Mare",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Sălaj",
     "settore": "Cleaning"
   },
@@ -2633,6 +3673,16 @@
     "nazione": "Romania",
     "area": "Sălaj",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sălaj",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sălaj",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2661,6 +3711,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Sibiu",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Sibiu",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Suceava",
     "settore": "Cleaning"
   },
@@ -2683,6 +3743,16 @@
     "nazione": "Romania",
     "area": "Suceava",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Suceava",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Suceava",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2711,6 +3781,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Teleorman",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Teleorman",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Timiș",
     "settore": "Cleaning"
   },
@@ -2733,6 +3813,16 @@
     "nazione": "Romania",
     "area": "Timiș",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Timiș",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Timiș",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Romania",
@@ -2761,6 +3851,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Tulcea",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Tulcea",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Vaslui",
     "settore": "Cleaning"
   },
@@ -2786,6 +3886,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Vaslui",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vaslui",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Vâlcea",
     "settore": "Cleaning"
   },
@@ -2811,6 +3921,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Vâlcea",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vâlcea",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "Vrancea",
     "settore": "Cleaning"
   },
@@ -2836,6 +3956,16 @@
   },
   {
     "nazione": "Romania",
+    "area": "Vrancea",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "Vrancea",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Romania",
     "area": "București",
     "settore": "Cleaning"
   },
@@ -2858,6 +3988,16 @@
     "nazione": "Romania",
     "area": "București",
     "settore": "ATEX Equipment/Services"
+  },
+  {
+    "nazione": "Romania",
+    "area": "București",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Romania",
+    "area": "București",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2866,8 +4006,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Blagoevgrad",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Blagoevgrad",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Burgas",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Burgas",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Burgas",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2876,8 +4036,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Dobrich",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Dobrich",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Gabrovo",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Gabrovo",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Gabrovo",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2886,8 +4066,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Haskovo",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Haskovo",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Kardzhali",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Kardzhali",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Kardzhali",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2896,8 +4096,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Kyustendil",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Kyustendil",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Lovech",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Lovech",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Lovech",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2906,8 +4126,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Montana",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Montana",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Pazardzhik",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Pazardzhik",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Pazardzhik",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2916,8 +4156,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Pernik",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Pernik",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Pleven",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Pleven",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Pleven",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2926,8 +4186,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Plovdiv",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Plovdiv",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Razgrad",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Razgrad",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Razgrad",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2936,8 +4216,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Ruse",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Ruse",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Shumen",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Shumen",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Shumen",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2946,8 +4246,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Silistra",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Silistra",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Sliven",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Sliven",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Sliven",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2956,8 +4276,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Smolyan",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Smolyan",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Sofia Province",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Sofia Province",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Sofia Province",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2966,8 +4306,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Sofia City",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Sofia City",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Stara Zagora",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Stara Zagora",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Stara Zagora",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2976,8 +4336,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Targovishte",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Targovishte",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Varna",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Varna",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Varna",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2986,8 +4366,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Veliko Tarnovo",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Veliko Tarnovo",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Vidin",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Vidin",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Vidin",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Bulgaria",
@@ -2996,8 +4396,28 @@
   },
   {
     "nazione": "Bulgaria",
+    "area": "Vratsa",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Vratsa",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Bulgaria",
     "area": "Yambol",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Yambol",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Bulgaria",
+    "area": "Yambol",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3006,8 +4426,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Adana",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Adana",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Adıyaman",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Adıyaman",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Adıyaman",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3016,8 +4456,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Afyonkarahisar",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Afyonkarahisar",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Ağrı",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ağrı",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ağrı",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3026,8 +4486,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Amasya",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Amasya",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Ankara",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ankara",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ankara",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3036,8 +4516,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Antalya",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Antalya",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Artvin",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Artvin",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Artvin",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3046,8 +4546,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Aydın",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Aydın",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Balıkesir",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Balıkesir",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Balıkesir",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3056,8 +4576,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Bilecik",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bilecik",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Bingöl",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bingöl",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bingöl",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3066,8 +4606,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Bitlis",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bitlis",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Bolu",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bolu",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bolu",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3076,8 +4636,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Burdur",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Burdur",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Bursa",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bursa",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bursa",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3086,8 +4666,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Çanakkale",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Çanakkale",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Çankırı",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Çankırı",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Çankırı",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3096,8 +4696,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Çorum",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Çorum",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Denizli",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Denizli",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Denizli",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3106,8 +4726,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Diyarbakır",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Diyarbakır",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Edirne",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Edirne",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Edirne",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3116,8 +4756,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Elazığ",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Elazığ",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Erzincan",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Erzincan",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Erzincan",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3126,8 +4786,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Erzurum",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Erzurum",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Eskişehir",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Eskişehir",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Eskişehir",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3136,8 +4816,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Gaziantep",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Gaziantep",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Giresun",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Giresun",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Giresun",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3146,8 +4846,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Gümüşhane",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Gümüşhane",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Hakkâri",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Hakkâri",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Hakkâri",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3156,8 +4876,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Hatay",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Hatay",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Isparta",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Isparta",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Isparta",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3166,8 +4906,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Mersin",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Mersin",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "İstanbul",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "İstanbul",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "İstanbul",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3176,8 +4936,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "İzmir",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "İzmir",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Kars",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kars",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kars",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3186,8 +4966,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Kastamonu",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kastamonu",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Kayseri",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kayseri",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kayseri",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3196,8 +4996,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Kırklareli",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kırklareli",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Kırşehir",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kırşehir",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kırşehir",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3206,8 +5026,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Kocaeli",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kocaeli",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Konya",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Konya",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Konya",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3216,8 +5056,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Kütahya",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kütahya",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Malatya",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Malatya",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Malatya",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3226,8 +5086,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Manisa",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Manisa",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Kahramanmaraş",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kahramanmaraş",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kahramanmaraş",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3236,8 +5116,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Mardin",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Mardin",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Muğla",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Muğla",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Muğla",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3246,8 +5146,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Muş",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Muş",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Nevşehir",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Nevşehir",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Nevşehir",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3256,8 +5176,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Niğde",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Niğde",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Ordu",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ordu",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ordu",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3266,8 +5206,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Rize",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Rize",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Sakarya",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Sakarya",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Sakarya",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3276,8 +5236,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Samsun",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Samsun",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Siirt",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Siirt",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Siirt",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3286,8 +5266,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Sinop",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Sinop",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Sivas",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Sivas",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Sivas",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3296,8 +5296,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Tekirdağ",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Tekirdağ",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Tokat",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Tokat",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Tokat",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3306,8 +5326,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Trabzon",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Trabzon",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Tunceli",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Tunceli",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Tunceli",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3316,8 +5356,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Şanlıurfa",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Şanlıurfa",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Uşak",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Uşak",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Uşak",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3326,8 +5386,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Van",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Van",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Yozgat",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Yozgat",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Yozgat",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3336,8 +5416,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Zonguldak",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Zonguldak",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Aksaray",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Aksaray",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Aksaray",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3346,8 +5446,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Bayburt",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bayburt",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Karaman",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Karaman",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Karaman",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3356,8 +5476,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Kırıkkale",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kırıkkale",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Batman",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Batman",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Batman",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3366,8 +5506,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Şırnak",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Şırnak",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Bartın",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bartın",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Bartın",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3376,8 +5536,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Ardahan",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Ardahan",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Iğdır",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Iğdır",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Iğdır",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3386,8 +5566,28 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Yalova",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Yalova",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Karabük",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Karabük",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Karabük",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   },
   {
     "nazione": "Turchia",
@@ -3396,12 +5596,42 @@
   },
   {
     "nazione": "Turchia",
+    "area": "Kilis",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Kilis",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Osmaniye",
     "settore": "Depolverazione / Trattamento aria"
   },
   {
     "nazione": "Turchia",
+    "area": "Osmaniye",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Osmaniye",
+    "settore": "Metalworking / Lavorazioni Metalliche"
+  },
+  {
+    "nazione": "Turchia",
     "area": "Düzce",
     "settore": "Depolverazione / Trattamento aria"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Düzce",
+    "settore": "Utensilerie e Macchine Utensili"
+  },
+  {
+    "nazione": "Turchia",
+    "area": "Düzce",
+    "settore": "Metalworking / Lavorazioni Metalliche"
   }
 ]
