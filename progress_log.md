@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-03 01:21 | Italia | Campania | Depolverazione / Trattamento aria | 39 | 27 | 12 |
 | 2026-09-03 00:17 | Italia | Campania | Cleaning | 27 | 18 | 9 |
 | 2026-09-02 23:13 | Italia | Molise | Metalworking / Lavorazioni Metalliche | 10 | 8 | 2 |
 | 2026-09-02 22:12 | Italia | Molise | Utensilerie e Macchine Utensili | 18 | 16 | 2 |
