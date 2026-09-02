@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-02 06:13 | Italia | Abruzzo | ATEX Equipment/Services | 13 | 6 | 7 |
 | 2026-09-02 05:12 | Italia | Abruzzo | Componentistica / Ventilazione industriale | 10 | 5 | 5 |
 | 2026-09-02 04:12 | Italia | Abruzzo | Impiantistica aspirazione industriale | 8 | 4 | 4 |
 | 2026-09-02 17:00 | Italia | Abruzzo | Depolverazione / Trattamento aria | 9 | 4 | 5 |
