@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-02 17:00 | Italia | Abruzzo | Depolverazione / Trattamento aria | 9 | 4 | 5 |
 | 2026-09-02 02:00 | Italia | Abruzzo | Cleaning | 20 | 11 | 9 |
 | 2026-08-31 08:00 | Italia | Toscana | Cleaning | 21 | 17 | 4 |
 | 2026-08-31 09:00 | Italia | Toscana | Depolverazione / Trattamento aria | 26 | 15 | 11 |
