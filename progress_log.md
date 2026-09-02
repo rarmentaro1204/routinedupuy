@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-02 23:13 | Italia | Molise | Metalworking / Lavorazioni Metalliche | 10 | 8 | 2 |
 | 2026-09-02 22:12 | Italia | Molise | Utensilerie e Macchine Utensili | 18 | 16 | 2 |
 | 2026-09-02 21:12 | Italia | Molise | ATEX Equipment/Services | 10 | 8 | 2 |
 | 2026-09-02 19:00 | Italia | Molise | Componentistica / Ventilazione industriale | 11 | 2 | 9 |
