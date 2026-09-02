@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-02 17:16 | Italia | Molise | Cleaning | 15 | 5 | 10 |
 | 2026-09-02 14:48 | Italia | Abruzzo | Metalworking / Lavorazioni Metalliche | 34 | 22 | 12 |
 | 2026-09-02 06:13 | Italia | Abruzzo | ATEX Equipment/Services | 13 | 6 | 7 |
 | 2026-09-02 05:12 | Italia | Abruzzo | Componentistica / Ventilazione industriale | 10 | 5 | 5 |
