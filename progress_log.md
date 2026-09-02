@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-02 19:00 | Italia | Molise | Componentistica / Ventilazione industriale | 11 | 2 | 9 |
 | 2026-09-02 18:16 | Italia | Molise | Depolverazione / Trattamento aria | 12 | 8 | 4 |
 | 2026-09-02 17:16 | Italia | Molise | Cleaning | 15 | 5 | 10 |
 | 2026-09-02 14:48 | Italia | Abruzzo | Metalworking / Lavorazioni Metalliche | 34 | 22 | 12 |
