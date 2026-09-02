@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-02 22:12 | Italia | Molise | Utensilerie e Macchine Utensili | 18 | 16 | 2 |
 | 2026-09-02 21:12 | Italia | Molise | ATEX Equipment/Services | 10 | 8 | 2 |
 | 2026-09-02 19:00 | Italia | Molise | Componentistica / Ventilazione industriale | 11 | 2 | 9 |
 | 2026-09-02 18:16 | Italia | Molise | Depolverazione / Trattamento aria | 12 | 8 | 4 |
