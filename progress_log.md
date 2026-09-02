@@ -49,3 +49,4 @@
 | 2026-09-02 00:13 | Italia | Marche | Utensilerie e Macchine Utensili | 22 | 16 | 6 |
 | 2026-09-02 01:12 | Italia | Marche | Metalworking / Lavorazioni Metalliche | 9 | 7 | 2 |
 | 2026-09-02 08:38 | Italia | Abruzzo | Utensilerie e Macchine Utensili | 42 | 37 | 5 |
+| 2026-09-02 18:12 | Italia | Molise | Impiantistica aspirazione industriale | 9 | 6 | 3 |
