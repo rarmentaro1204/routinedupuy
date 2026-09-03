@@ -4,6 +4,8 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-03 12:05 | Italia | Campania | Metalworking / Lavorazioni Metalliche | 19 | 11 (2 VERIFICATA AI, 9 DA VERIFICARE UMANAMENTE) | 8 |
+| 2026-09-03 11:50 | Italia | Campania | Utensilerie e Macchine Utensili | 59 | 56 (3 VERIFICATA AI, 53 DA VERIFICARE UMANAMENTE) | 3 |
 | 2026-09-03 11:36 | Italia | Campania | ATEX Equipment/Services | 51 | 11 (tutte DA VERIFICARE UMANAMENTE, nessuna VERIFICATA AI) | 40 |
 | 2026-09-03 06:21 | Italia | Campania | Componentistica / Ventilazione industriale | 39 | 19 | 20 |
 | 2026-09-03 02:20 | Italia | Campania | Impiantistica aspirazione industriale | 37 | 20 | 17 |
