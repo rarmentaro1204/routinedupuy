@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-03 18:14 | Italia | Basilicata | Depolverazione / Trattamento aria | 11 | 2 (tutte DA VERIFICARE UMANAMENTE) | 9 |
 | 2026-09-03 17:15 | Italia | Basilicata | Cleaning | 9 | 8 | 1 |
 | 2026-09-03 13:50 | Italia | Puglia | Metalworking / Lavorazioni Metalliche | 10 | 4 (2 VERIFICATA AI, 2 DA VERIFICARE UMANAMENTE) | 6 |
 | 2026-09-03 13:35 | Italia | Puglia | Utensilerie e Macchine Utensili | 25 | 20 (8 VERIFICATA AI, 12 DA VERIFICARE UMANAMENTE) | 5 |
