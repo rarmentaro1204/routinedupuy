@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-03 13:50 | Italia | Puglia | Metalworking / Lavorazioni Metalliche | 10 | 4 (2 VERIFICATA AI, 2 DA VERIFICARE UMANAMENTE) | 6 |
 | 2026-09-03 13:35 | Italia | Puglia | Utensilerie e Macchine Utensili | 25 | 20 (8 VERIFICATA AI, 12 DA VERIFICARE UMANAMENTE) | 5 |
 | 2026-09-03 13:20 | Italia | Puglia | ATEX Equipment/Services | 20 | 5 (3 VERIFICATA AI, 2 DA VERIFICARE UMANAMENTE) | 15 |
 | 2026-09-03 13:05 | Italia | Puglia | Componentistica / Ventilazione industriale | 12 | 8 (4 VERIFICATA AI, 4 DA VERIFICARE UMANAMENTE) | 4 |
