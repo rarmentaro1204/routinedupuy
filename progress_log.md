@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-03 21:16 | Italia | Basilicata | ATEX Equipment/Services | 10 | 4 | 6 |
 | 2026-09-03 20:12 | Italia | Basilicata | Componentistica / Ventilazione industriale | 10 | 3 | 7 |
 | 2026-09-03 21:15 | Italia | Basilicata | Impiantistica aspirazione industriale | 10 | 5 | 5 |
 | 2026-09-03 18:14 | Italia | Basilicata | Depolverazione / Trattamento aria | 11 | 2 (tutte DA VERIFICARE UMANAMENTE) | 9 |
