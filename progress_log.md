@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-03 13:05 | Italia | Puglia | Componentistica / Ventilazione industriale | 12 | 8 (4 VERIFICATA AI, 4 DA VERIFICARE UMANAMENTE) | 4 |
 | 2026-09-03 12:50 | Italia | Puglia | Impiantistica aspirazione industriale | 21 | 11 (0 VERIFICATA AI, 11 DA VERIFICARE UMANAMENTE) | 10 |
 | 2026-09-03 12:35 | Italia | Puglia | Depolverazione / Trattamento aria | 19 | 13 (4 VERIFICATA AI, 9 DA VERIFICARE UMANAMENTE) | 6 |
 | 2026-09-03 12:20 | Italia | Puglia | Cleaning | 27 | 22 (1 VERIFICATA AI, 21 DA VERIFICARE UMANAMENTE) | 6 |
