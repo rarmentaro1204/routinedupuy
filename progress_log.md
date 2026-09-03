@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-03 06:21 | Italia | Campania | Componentistica / Ventilazione industriale | 39 | 19 | 20 |
 | 2026-09-03 02:20 | Italia | Campania | Impiantistica aspirazione industriale | 37 | 20 | 17 |
 | 2026-09-03 01:21 | Italia | Campania | Depolverazione / Trattamento aria | 39 | 27 | 12 |
 | 2026-09-03 00:17 | Italia | Campania | Cleaning | 27 | 18 | 9 |
