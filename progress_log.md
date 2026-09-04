@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-04 23:05 | Italia | Calabria | Cleaning | 33 | 17 | 16 |
 | 2026-09-03 22:14 | Italia | Basilicata | Utensilerie e Macchine Utensili | 14 | 9 | 5 |
 | 2026-09-03 21:16 | Italia | Basilicata | ATEX Equipment/Services | 10 | 4 | 6 |
 | 2026-09-03 20:12 | Italia | Basilicata | Componentistica / Ventilazione industriale | 10 | 3 | 7 |
