@@ -86,3 +86,4 @@
 | 2026-09-05 09:15 | Italia | Calabria | Utensilerie e Macchine Utensili | 12 | 8 | 4 |
 | 2026-09-05 10:15 | Italia | Calabria | Metalworking / Lavorazioni Metalliche | 7 | 5 | 2 |
 | 2026-09-05 14:17 | Italia | Sicilia | Componentistica / Ventilazione industriale | 11 | 3 | 8 |
+| 2026-09-05 15:16 | Italia | Sicilia | ATEX Equipment/Services | 10 | 6 | 4 |
