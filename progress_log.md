@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-05 22:12 | Slovenia | Pomurska | Metalworking / Lavorazioni Metalliche | 10 | 6 | 4 |
 | 2026-09-05 21:15 | Slovenia | Pomurska | Utensilerie e Macchine Utensili | 10 | 9 | 1 |
 | 2026-09-05 20:12 | Slovenia | Pomurska | Depolverazione / Trattamento aria | 6 | 5 | 1 |
 | 2026-09-05 19:05 | Italia | Sicilia | Metalworking / Lavorazioni Metalliche | 74 | 18 | 56 |
