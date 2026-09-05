@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-05 02:15 | Italia | Calabria | Componentistica / Ventilazione industriale | 36 | 11 | 25 |
 | 2026-09-05 00:15 | Italia | Calabria | Depolverazione / Trattamento aria | 24 | 2 | 22 |
 | 2026-09-04 23:05 | Italia | Calabria | Cleaning | 33 | 17 | 16 |
 | 2026-09-03 22:14 | Italia | Basilicata | Utensilerie e Macchine Utensili | 14 | 9 | 5 |
