@@ -77,3 +77,4 @@
 | 2026-09-02 08:38 | Italia | Abruzzo | Utensilerie e Macchine Utensili | 42 | 37 | 5 |
 | 2026-09-02 18:12 | Italia | Molise | Impiantistica aspirazione industriale | 9 | 6 | 3 |
 | 2026-09-03 23:00 | Italia | Basilicata | Metalworking / Lavorazioni Metalliche | 13 | 13 | 0 |
+| 2026-09-05 03:00 | Italia | Calabria | Impiantistica aspirazione industriale | 25 | 3 | 21 |
