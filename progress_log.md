@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-05 20:12 | Slovenia | Pomurska | Depolverazione / Trattamento aria | 6 | 5 | 1 |
 | 2026-09-05 19:05 | Italia | Sicilia | Metalworking / Lavorazioni Metalliche | 74 | 18 | 56 |
 | 2026-09-05 16:15 | Italia | Sicilia | Utensilerie e Macchine Utensili | 19 | 14 | 5 |
 | 2026-09-05 13:15 | Italia | Sicilia | Impiantistica aspirazione industriale | 11 | 5 | 6 |
