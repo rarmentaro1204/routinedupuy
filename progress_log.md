@@ -104,3 +104,4 @@
 | 2026-09-05 15:16 | Italia | Sicilia | ATEX Equipment/Services | 10 | 6 | 4 |
 | 2026-09-06 09:18 | Slovenia | Zasavska | Utensilerie e Macchine Utensili | 2 | 1 | 1 |
 | 2026-09-06 10:16 | Slovenia | Zasavska | Metalworking / Lavorazioni Metalliche | 16 | 14 | 2 |
+| 2026-09-06 09:14 | Slovenia | Posavska | Depolverazione / Trattamento aria | 8 | 3 | 5 |
