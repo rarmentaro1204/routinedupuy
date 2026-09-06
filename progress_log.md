@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-06 15:19 | Slovenia | Jugovzhodna Slovenija | Utensilerie e Macchine Utensili | 10 | 5 | 5 |
 | 2026-09-06 14:19 | Slovenia | Jugovzhodna Slovenija | Depolverazione / Trattamento aria | 21 | 21 | 0 |
 | 2026-09-06 12:16 | Slovenia | Posavska | Utensilerie e Macchine Utensili | 7 | 2 | 5 |
 | 2026-09-06 08:17 | Slovenia | Zasavska | Depolverazione / Trattamento aria | 18 | 18 | 0 |
