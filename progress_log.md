@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-06 02:14 | Slovenia | Koroška | Depolverazione / Trattamento aria | 5 | 0 | 5 |
 | 2026-09-06 01:11 | Slovenia | Podravska | Metalworking / Lavorazioni Metalliche | 10 | 8 | 2 |
 | 2026-09-06 00:10 | Slovenia | Podravska | Utensilerie e Macchine Utensili | 14 | 11 | 3 |
 | 2026-09-05 23:15 | Slovenia | Podravska | Depolverazione / Trattamento aria | 6 | 4 | 2 |
