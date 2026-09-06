@@ -111,3 +111,4 @@
 | 2026-09-06 09:14 | Slovenia | Posavska | Depolverazione / Trattamento aria | 8 | 3 | 5 |
 | 2026-09-06 13:16 | Slovenia | Posavska | Metalworking / Lavorazioni Metalliche | 15 | 14 | 1 |
 | 2026-09-06 15:14 | Slovenia | Primorsko-notranjska | Depolverazione / Trattamento aria | 2 | 1 | 1 |
+| 2026-09-06 18:11 | Slovenia | Primorsko-notranjska | Utensilerie e Macchine Utensili | 9 | 6 | 3 |
