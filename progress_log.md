@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-06 21:17 | Slovenia | Osrednjeslovenska | Utensilerie e Macchine Utensili | 26 | 26 | 0 |
 | 2026-09-06 20:11 | Slovenia | Osrednjeslovenska | Depolverazione / Trattamento aria | 9 | 6 | 3 |
 | 2026-09-06 19:15 | Slovenia | Primorsko-notranjska | Metalworking / Lavorazioni Metalliche | 5 | 4 | 1 |
 | 2026-09-06 16:20 | Slovenia | Jugovzhodna Slovenija | Metalworking / Lavorazioni Metalliche | 6 | 2 | 4 |
