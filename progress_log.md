@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-07 05:12 | Slovenia | Obalno-kraška | Depolverazione / Trattamento aria | 6 | 1 | 5 |
 | 2026-09-07 04:13 | Slovenia | Goriška | Metalworking / Lavorazioni Metalliche | 12 | 12 | 0 |
 | 2026-09-07 03:13 | Slovenia | Goriška | Utensilerie e Macchine Utensili | 6 | 6 | 0 |
 | 2026-09-07 02:13 | Slovenia | Goriška | Depolverazione / Trattamento aria | 12 | 3 | 9 |
