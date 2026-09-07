@@ -131,3 +131,4 @@
 | 2026-09-07 06:19 | Slovenia | Obalno-kraška | Utensilerie e Macchine Utensili | 8 | 5 | 3 |
 | 2026-09-07 15:00 | Slovenia | Obalno-kraška | Metalworking / Lavorazioni Metalliche | 7 | 4 | 3 |
 | 2026-09-07 18:00 | Croazia | Zagrebačka | Cleaning | 6 | 2 | 4 |
+| 2026-09-08 00:07 | Croazia | Zagrebačka | Metalworking / Lavorazioni Metalliche | 6 | 5 | 1 |
