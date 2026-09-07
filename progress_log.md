@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-07 02:13 | Slovenia | Goriška | Depolverazione / Trattamento aria | 12 | 3 | 9 |
 | 2026-09-07 01:13 | Slovenia | Gorenjska | Metalworking / Lavorazioni Metalliche | 10 | 7 | 3 |
 | 2026-09-07 00:13 | Slovenia | Gorenjska | Utensilerie e Macchine Utensili | 7 | 6 | 1 |
 | 2026-09-06 23:15 | Slovenia | Gorenjska | Depolverazione / Trattamento aria | 3 | 2 | 2 |
