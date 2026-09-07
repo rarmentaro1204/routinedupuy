@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-07 21:14 | Croazia | Zagrebačka | Componentistica / Ventilazione industriale | 9 | 9 | 0 |
 | 2026-09-07 20:13 | Croazia | Zagrebačka | Impiantistica aspirazione industriale | 11 | 6 | 5 |
 | 2026-09-07 19:07 | Croazia | Zagrebačka | Depolverazione / Trattamento aria | 8 | 6 | 2 |
 | 2026-09-07 05:12 | Slovenia | Obalno-kraška | Depolverazione / Trattamento aria | 6 | 1 | 5 |
