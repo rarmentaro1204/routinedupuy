@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-08 01:13 | Croazia | Krapinsko-zagorska | Cleaning | 4 | 1 | 3 |
 | 2026-09-07 23:18 | Croazia | Zagrebačka | Utensilerie e Macchine Utensili | 25 | 18 | 7 |
 | 2026-09-07 22:14 | Croazia | Zagrebačka | ATEX Equipment/Services | 5 | 3 | 2 |
 | 2026-09-07 21:14 | Croazia | Zagrebačka | Componentistica / Ventilazione industriale | 9 | 9 | 0 |
