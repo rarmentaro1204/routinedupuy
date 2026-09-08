@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-08 21:16 | Croazia | Sisačko-moslavačka | Utensilerie e Macchine Utensili | 9 | 4 | 5 |
 | 2026-09-08 21:14 | Croazia | Sisačko-moslavačka | ATEX Equipment/Services | 2 | 0 | 2 |
 | 2026-09-08 21:14 | Croazia | Sisačko-moslavačka | Componentistica / Ventilazione industriale | 6 | 4 | 2 |
 | 2026-09-08 20:05 | Croazia | Sisačko-moslavačka | Impiantistica aspirazione industriale | 5 | 1 | 4 |
