@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-08 19:12 | Croazia | Sisačko-moslavačka | Depolverazione / Trattamento aria | 6 | 2 | 4 |
 | 2026-09-08 18:13 | Croazia | Sisačko-moslavačka | Cleaning | 4 | 3 | 1 |
 | 2026-09-08 17:00 | Croazia | Krapinsko-zagorska | Metalworking / Lavorazioni Metalliche | 6 | 4 | 2 |
 | 2026-09-08 06:11 | Croazia | Krapinsko-zagorska | Utensilerie e Macchine Utensili | 5 | 2 | 3 |
