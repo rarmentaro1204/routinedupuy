@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-08 04:14 | Croazia | Krapinsko-zagorska | Componentistica / Ventilazione industriale | 5 | 2 | 3 |
 | 2026-09-08 03:13 | Croazia | Krapinsko-zagorska | Impiantistica aspirazione industriale | 10 | 9 | 1 |
 | 2026-09-08 01:13 | Croazia | Krapinsko-zagorska | Cleaning | 4 | 1 | 3 |
 | 2026-09-08 02:00 | Croazia | Krapinsko-zagorska | Depolverazione / Trattamento aria | 2 | 0 | 2 |
