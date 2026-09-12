@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-12 20:14 | Croazia | Karlovačka | Utensilerie e Macchine Utensili | 16 | 12 | 4 |
 | 2026-09-12 19:12 | Croazia | Karlovačka | ATEX Equipment/Services | 6 | 2 | 4 |
 | 2026-09-12 18:05 | Croazia | Karlovačka | Impiantistica aspirazione industriale | 3 | 0 | 3 |
 | 2026-09-12 17:09 | Croazia | Karlovačka | Depolverazione / Trattamento aria | 8 | 0 | 8 |
