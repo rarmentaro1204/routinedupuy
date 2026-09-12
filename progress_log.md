@@ -154,3 +154,4 @@
 | 2026-09-12 19:05 | Croazia | Karlovačka | Componentistica / Ventilazione industriale | 9 | 4 | 5 |
 | 2026-09-12 22:10 | Croazia | Karlovačka | Metalworking / Lavorazioni Metalliche | 9 | 4 | 5 |
 | 2026-09-12 22:20 | Croazia | Varaždinska | Cleaning | 5 | 4 | 1 |
+| 2026-09-12 23:15 | Croazia | Varaždinska | Depolverazione / Trattamento aria | 11 | 5 | 6 |
