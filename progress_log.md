@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-12 18:05 | Croazia | Karlovačka | Impiantistica aspirazione industriale | 3 | 0 | 3 |
 | 2026-09-12 17:09 | Croazia | Karlovačka | Depolverazione / Trattamento aria | 8 | 0 | 8 |
 | 2026-09-12 16:14 | Croazia | Karlovačka | Cleaning | 6 | 0 | 6 |
 | 2026-09-09 00:14 | Croazia | Sisačko-moslavačka | Metalworking / Lavorazioni Metalliche | 10 | 7 | 3 |
