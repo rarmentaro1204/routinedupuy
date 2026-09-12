@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-12 16:14 | Croazia | Karlovačka | Cleaning | 6 | 0 | 6 |
 | 2026-09-09 00:14 | Croazia | Sisačko-moslavačka | Metalworking / Lavorazioni Metalliche | 10 | 7 | 3 |
 | 2026-09-08 21:16 | Croazia | Sisačko-moslavačka | Utensilerie e Macchine Utensili | 9 | 4 | 5 |
 | 2026-09-08 21:14 | Croazia | Sisačko-moslavačka | ATEX Equipment/Services | 2 | 0 | 2 |
