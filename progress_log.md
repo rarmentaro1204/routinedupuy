@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-13 06:05 | Croazia | Koprivničko-križevačka | Depolverazione / Trattamento aria | 1 | 0 | 1 |
 | 2026-09-13 05:09 | Croazia | Koprivničko-križevačka | Cleaning | 4 | 0 | 4 |
 | 2026-09-13 04:12 | Croazia | Varaždinska | Metalworking / Lavorazioni Metalliche | 8 | 7 | 1 |
 | 2026-09-13 03:00 | Croazia | Varaždinska | Utensilerie e Macchine Utensili | 7 | 7 | 0 |
