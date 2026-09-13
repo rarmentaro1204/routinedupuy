@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-13 17:11 | Croazia | Bjelovarsko-bilogorska | Utensilerie e Macchine Utensili | 7 | 6 | 1 |
 | 2026-09-13 07:15 | Croazia | Koprivničko-križevačka | Impiantistica aspirazione industriale | 10 | 5 | 5 |
 | 2026-09-13 06:05 | Croazia | Koprivničko-križevačka | Depolverazione / Trattamento aria | 1 | 0 | 1 |
 | 2026-09-13 05:09 | Croazia | Koprivničko-križevačka | Cleaning | 4 | 0 | 4 |
