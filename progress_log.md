@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-13 21:10 | Croazia | Primorsko-goranska | Impiantistica aspirazione industriale | 8 | 2 | 6 |
 | 2026-09-13 20:12 | Croazia | Primorsko-goranska | Depolverazione / Trattamento aria | 5 | 2 | 3 |
 | 2026-09-13 18:11 | Croazia | Bjelovarsko-bilogorska | Metalworking / Lavorazioni Metalliche | 5 | 4 | 1 |
 | 2026-09-13 17:11 | Croazia | Bjelovarsko-bilogorska | Utensilerie e Macchine Utensili | 7 | 6 | 1 |
