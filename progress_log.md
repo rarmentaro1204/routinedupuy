@@ -165,3 +165,4 @@
 | 2026-09-13 02:23 | Croazia | Varaždinska | ATEX Equipment/Services | 14 | 14 | 0 |
 | 2026-09-13 08:16 | Croazia | Koprivničko-križevačka | Componentistica / Ventilazione industriale | 16 | 12 | 4 |
 | 2026-09-13 09:13 | Croazia | Koprivničko-križevačka | ATEX Equipment/Services | 8 | 0 | 8 |
+| 2026-09-13 10:11 | Croazia | Koprivničko-križevačka | Utensilerie e Macchine Utensili | 8 | 6 | 2 |
