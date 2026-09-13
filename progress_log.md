@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-13 23:10 | Croazia | Primorsko-goranska | ATEX Equipment/Services | 5 | 2 | 3 |
 | 2026-09-13 22:11 | Croazia | Primorsko-goranska | Componentistica / Ventilazione industriale | 10 | 7 | 3 |
 | 2026-09-13 21:10 | Croazia | Primorsko-goranska | Impiantistica aspirazione industriale | 8 | 2 | 6 |
 | 2026-09-13 20:12 | Croazia | Primorsko-goranska | Depolverazione / Trattamento aria | 5 | 2 | 3 |
