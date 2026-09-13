@@ -157,3 +157,4 @@
 | 2026-09-12 23:15 | Croazia | Varaždinska | Depolverazione / Trattamento aria | 11 | 5 | 6 |
 | 2026-09-13 00:11 | Croazia | Varaždinska | Impiantistica aspirazione industriale | 7 | 2 | 5 |
 | 2026-09-13 01:10 | Croazia | Varaždinska | Componentistica / Ventilazione industriale | 6 | 0 | 6 |
+| 2026-09-13 02:23 | Croazia | Varaždinska | ATEX Equipment/Services | 14 | 14 | 0 |
