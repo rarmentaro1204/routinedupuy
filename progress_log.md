@@ -174,3 +174,4 @@
 | 2026-09-13 14:20 | Croazia | Bjelovarsko-bilogorska | Impiantistica aspirazione industriale | 11 | 3 | 8 |
 | 2026-09-13 15:14 | Croazia | Bjelovarsko-bilogorska | Componentistica / Ventilazione industriale | 6 | 2 | 4 |
 | 2026-09-13 16:20 | Croazia | Bjelovarsko-bilogorska | ATEX Equipment/Services | 11 | 10 | 1 |
+| 2026-09-13 19:11 | Croazia | Primorsko-goranska | Cleaning | 8 | 4 | 4 |
