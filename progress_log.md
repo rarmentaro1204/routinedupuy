@@ -168,3 +168,4 @@
 | 2026-09-13 10:11 | Croazia | Koprivničko-križevačka | Utensilerie e Macchine Utensili | 8 | 6 | 2 |
 | 2026-09-13 11:15 | Croazia | Koprivničko-križevačka | Metalworking / Lavorazioni Metalliche | 19 | 1 | 18 |
 | 2026-09-13 12:14 | Croazia | Bjelovarsko-bilogorska | Cleaning | 3 | 1 | 2 |
+| 2026-09-13 13:16 | Croazia | Bjelovarsko-bilogorska | Depolverazione / Trattamento aria | 4 | 0 | 4 |
