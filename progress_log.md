@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-14 05:12 | Croazia | Ličko-senjska | Impiantistica aspirazione industriale | 3 | 0 | 3 |
 | 2026-09-14 04:08 | Croazia | Ličko-senjska | Depolverazione / Trattamento aria | 1 | 0 | 1 |
 | 2026-09-14 02:11 | Croazia | Primorsko-goranska | Metalworking / Lavorazioni Metalliche | 10 | 10 | 0 |
 | 2026-09-14 00:12 | Croazia | Primorsko-goranska | Utensilerie e Macchine Utensili | 18 | 10 | 8 |
