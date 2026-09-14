@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-14 20:06 | Croazia | Virovitičko-podravska | Cleaning | 8 | 4 | 4 |
 | 2026-09-14 19:09 | Croazia | Ličko-senjska | Metalworking / Lavorazioni Metalliche | 2 | 0 | 2 |
 | 2026-09-14 18:13 | Croazia | Ličko-senjska | Utensilerie e Macchine Utensili | 5 | 3 | 2 |
 | 2026-09-14 17:09 | Croazia | Ličko-senjska | ATEX Equipment/Services | 3 | 0 | 3 |
