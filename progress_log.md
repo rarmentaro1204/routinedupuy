@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-15 00:12 | Croazia | Virovitičko-podravska | ATEX Equipment/Services | 12 | 10 | 2 |
 | 2026-09-14 23:13 | Croazia | Virovitičko-podravska | Componentistica / Ventilazione industriale | 3 | 0 | 3 |
 | 2026-09-14 20:06 | Croazia | Virovitičko-podravska | Cleaning | 8 | 4 | 4 |
 | 2026-09-14 19:09 | Croazia | Ličko-senjska | Metalworking / Lavorazioni Metalliche | 2 | 0 | 2 |
