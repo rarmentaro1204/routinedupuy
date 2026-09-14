@@ -184,3 +184,4 @@
 | 2026-09-13 16:20 | Croazia | Bjelovarsko-bilogorska | ATEX Equipment/Services | 11 | 10 | 1 |
 | 2026-09-13 19:11 | Croazia | Primorsko-goranska | Cleaning | 8 | 4 | 4 |
 | 2026-09-14 03:13 | Croazia | Ličko-senjska | Cleaning | 5 | 7 | 0 |
+| 2026-09-14 04:07 | Croazia | Ličko-senjska | Componentistica / Ventilazione industriale | 0 | 0 | 0 |
