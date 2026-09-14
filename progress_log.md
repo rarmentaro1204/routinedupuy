@@ -193,3 +193,4 @@
 | 2026-09-14 04:07 | Croazia | Ličko-senjska | Componentistica / Ventilazione industriale | 0 | 0 | 0 |
 | 2026-09-14 21:12 | Croazia | Virovitičko-podravska | Depolverazione / Trattamento aria | 5 | 2 | 3 |
 | 2026-09-14 22:07 | Croazia | Virovitičko-podravska | Impiantistica aspirazione industriale | 0 | 0 | 0 |
+| 2026-09-15 01:13 | Croazia | Virovitičko-podravska | Utensilerie e Macchine Utensili | 7 | 7 | 0 |
