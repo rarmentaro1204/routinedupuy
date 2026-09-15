@@ -200,3 +200,4 @@
 | 2026-09-14 22:07 | Croazia | Virovitičko-podravska | Impiantistica aspirazione industriale | 0 | 0 | 0 |
 | 2026-09-15 01:13 | Croazia | Virovitičko-podravska | Utensilerie e Macchine Utensili | 7 | 7 | 0 |
 | 2026-09-15 04:14 | Croazia | Požeško-slavonska | Depolverazione / Trattamento aria | 5 | 3 | 2 |
+| 2026-09-15 16:13 | Croazia | Požeško-slavonska | Utensilerie e Macchine Utensili | 5 | 3 | 2 |
