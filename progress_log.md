@@ -206,3 +206,4 @@
 | 2026-09-15 01:13 | Croazia | Virovitičko-podravska | Utensilerie e Macchine Utensili | 7 | 7 | 0 |
 | 2026-09-15 04:14 | Croazia | Požeško-slavonska | Depolverazione / Trattamento aria | 5 | 3 | 2 |
 | 2026-09-15 16:13 | Croazia | Požeško-slavonska | Utensilerie e Macchine Utensili | 5 | 3 | 2 |
+| 2026-09-16 00:10 | Croazia | Brodsko-posavska | ATEX Equipment/Services | 4 | 2 | 2 |
