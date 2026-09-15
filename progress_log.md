@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-15 20:09 | Croazia | Brodsko-posavska | Cleaning | 6 | 3 | 3 |
 | 2026-09-15 19:13 | Croazia | Požeško-slavonska | Metalworking / Lavorazioni Metalliche | 5 | 4 | 1 |
 | 2026-09-15 17:13 | Croazia | Požeško-slavonska | ATEX Equipment/Services | 6 | 3 | 3 |
 | 2026-09-15 06:10 | Croazia | Požeško-slavonska | Componentistica / Ventilazione industriale | 5 | 0 | 5 |
