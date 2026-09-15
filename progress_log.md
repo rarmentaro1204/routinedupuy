@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-15 05:11 | Croazia | Požeško-slavonska | Impiantistica aspirazione industriale | 4 | 2 | 2 |
 | 2026-09-15 03:11 | Croazia | Požeško-slavonska | Cleaning | 5 | 3 | 2 |
 | 2026-09-15 02:14 | Croazia | Virovitičko-podravska | Metalworking / Lavorazioni Metalliche | 4 | 2 | 2 |
 | 2026-09-15 00:12 | Croazia | Virovitičko-podravska | ATEX Equipment/Services | 12 | 10 | 2 |
