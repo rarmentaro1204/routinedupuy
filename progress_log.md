@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-15 22:09 | Croazia | Brodsko-posavska | Impiantistica aspirazione industriale | 4 | 1 | 3 |
 | 2026-09-15 20:09 | Croazia | Brodsko-posavska | Cleaning | 6 | 3 | 3 |
 | 2026-09-15 21:11 | Croazia | Brodsko-posavska | Depolverazione / Trattamento aria | 4 | 3 | 1 |
 | 2026-09-15 19:13 | Croazia | Požeško-slavonska | Metalworking / Lavorazioni Metalliche | 5 | 4 | 1 |
