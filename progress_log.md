@@ -215,3 +215,4 @@
 | 2026-09-16 02:09 | Croazia | Brodsko-posavska | Metalworking / Lavorazioni Metalliche | 2 | 1 | 1 |
 | 2026-09-16 06:12 | Croazia | Zadarska | Componentistica / Ventilazione industriale | 11 | 0 | 11 |
 | 2026-09-16 17:11 | Croazia | Zadarska | ATEX Equipment/Services | 2 | 1 | 1 |
+| 2026-09-16 17:12 | Croazia | Zadarska | Metalworking / Lavorazioni Metalliche | 11 | 8 | 3 |
