@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-16 04:15 | Croazia | Zadarska | Depolverazione / Trattamento aria | 11 | 2 | 9 |
 | 2026-09-16 03:15 | Croazia | Zadarska | Cleaning | 8 | 5 | 3 |
 | 2026-09-15 23:19 | Croazia | Brodsko-posavska | Componentistica / Ventilazione industriale | 6 | 1 | 5 |
 | 2026-09-15 22:09 | Croazia | Brodsko-posavska | Impiantistica aspirazione industriale | 4 | 1 | 3 |
