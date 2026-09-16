@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-16 18:11 | Croazia | Zadarska | Utensilerie e Macchine Utensili | 8 | 4 | 4 |
 | 2026-09-16 05:14 | Croazia | Zadarska | Impiantistica aspirazione industriale | 5 | 1 | 4 |
 | 2026-09-16 04:15 | Croazia | Zadarska | Depolverazione / Trattamento aria | 11 | 2 | 9 |
 | 2026-09-16 03:15 | Croazia | Zadarska | Cleaning | 8 | 5 | 3 |
