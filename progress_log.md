@@ -224,3 +224,4 @@
 | 2026-09-16 17:12 | Croazia | Zadarska | Metalworking / Lavorazioni Metalliche | 11 | 8 | 3 |
 | 2026-09-16 18:14 | Croazia | Osječko-baranjska | Cleaning | 4 | 2 | 2 |
 | 2026-09-19 19:14 | Croazia | Osječko-baranjska | Metalworking / Lavorazioni Metalliche | 13 | 9 | 4 |
+| 2026-09-19 21:12 | Croazia | Šibensko-kninska | Depolverazione / Trattamento aria | 7 | 7 | 0 |
