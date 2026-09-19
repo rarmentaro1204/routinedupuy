@@ -222,3 +222,4 @@
 | 2026-09-16 17:11 | Croazia | Zadarska | ATEX Equipment/Services | 2 | 1 | 1 |
 | 2026-09-16 17:12 | Croazia | Zadarska | Metalworking / Lavorazioni Metalliche | 11 | 8 | 3 |
 | 2026-09-16 18:14 | Croazia | Osječko-baranjska | Cleaning | 4 | 2 | 2 |
+| 2026-09-19 19:14 | Croazia | Osječko-baranjska | Metalworking / Lavorazioni Metalliche | 13 | 9 | 4 |
