@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-19 22:15 | Croazia | Šibensko-kninska | Impiantistica aspirazione industriale | 8 | 5 | 3 |
 | 2026-09-19 22:11 | Croazia | Šibensko-kninska | Cleaning | 5 | 1 | 4 |
 | 2026-09-19 20:12 | Croazia | Osječko-baranjska | Utensilerie e Macchine Utensili | 7 | 4 | 3 |
 | 2026-09-19 19:11 | Croazia | Osječko-baranjska | ATEX Equipment/Services | 8 | 4 | 4 |
