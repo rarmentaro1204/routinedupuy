@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-19 18:11 | Croazia | Osječko-baranjska | Componentistica / Ventilazione industriale | 13 | 4 | 9 |
 | 2026-09-19 17:00 | Croazia | Osječko-baranjska | Impiantistica aspirazione industriale | 6 | 5 | 1 |
 | 2026-09-19 16:00 | Croazia | Osječko-baranjska | Depolverazione / Trattamento aria | 4 | 2 | 2 |
 | 2026-09-16 18:11 | Croazia | Zadarska | Utensilerie e Macchine Utensili | 8 | 4 | 4 |
