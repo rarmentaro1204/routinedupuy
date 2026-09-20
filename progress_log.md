@@ -5,6 +5,7 @@
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
 | 2026-09-20 17:20 | Croazia | Istarska | Cleaning | 5 | 2 | 3 |
+| 2026-09-20 18:20 | Croazia | Istarska | Depolverazione / Trattamento aria | 14 | 0 | 14 |
 | 2026-09-20 16:26 | Croazia | Splitsko-dalmatinska | Metalworking / Lavorazioni Metalliche | 11 | 9 | 2 |
 | 2026-09-20 16:20 | Croazia | Splitsko-dalmatinska | ATEX Equipment/Services | 17 | 12 | 5 |
 | 2026-09-20 12:24 | Croazia | Splitsko-dalmatinska | Cleaning | 13 | 4 | 9 |
