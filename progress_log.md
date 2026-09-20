@@ -238,3 +238,4 @@
 | 2026-09-20 05:14 | Croazia | Vukovarsko-srijemska | Impiantistica aspirazione industriale | 8 | 6 | 3 |
 | 2026-09-20 08:35 | Croazia | Vukovarsko-srijemska | Componentistica / Ventilazione industriale | 6 | 3 | 3 |
 | 2026-09-20 10:14 | Croazia | Vukovarsko-srijemska | Utensilerie e Macchine Utensili | 9 | 5 | 4 |
+| 2026-09-20 13:15 | Croazia | Splitsko-dalmatinska | Depolverazione / Trattamento aria | 9 | 3 | 6 |
