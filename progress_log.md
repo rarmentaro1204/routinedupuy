@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-20 09:15 | Croazia | Vukovarsko-srijemska | ATEX Equipment/Services | 11 | 10 | 1 |
 | 2026-09-20 05:13 | Croazia | Vukovarsko-srijemska | Cleaning | 7 | 5 | 2 |
 | 2026-09-20 04:12 | Croazia | Šibensko-kninska | Metalworking / Lavorazioni Metalliche | 4 | 3 | 1 |
 | 2026-09-20 02:11 | Croazia | Šibensko-kninska | ATEX Equipment/Services | 6 | 5 | 1 |
