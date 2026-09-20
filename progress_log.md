@@ -231,3 +231,4 @@
 | 2026-09-19 21:12 | Croazia | Šibensko-kninska | Depolverazione / Trattamento aria | 7 | 7 | 0 |
 | 2026-09-19 23:14 | Croazia | Šibensko-kninska | Componentistica / Ventilazione industriale | 10 | 6 | 4 |
 | 2026-09-20 01:11 | Croazia | Šibensko-kninska | Utensilerie e Macchine Utensili | 5 | 4 | 1 |
+| 2026-09-20 06:13 | Croazia | Vukovarsko-srijemska | Depolverazione / Trattamento aria | 7 | 5 | 2 |
