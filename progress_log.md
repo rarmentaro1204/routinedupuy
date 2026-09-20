@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-09-21 00:12 | Croazia | Istarska | Utensilerie e Macchine Utensili | 12 | 9 | 3 |
 | 2026-09-20 23:15 | Croazia | Istarska | ATEX Equipment/Services | 7 | 3 | 4 |
 | 2026-09-20 22:12 | Croazia | Istarska | Componentistica / Ventilazione industriale | 5 | 2 | 3 |
 | 2026-09-20 21:09 | Croazia | Istarska | Impiantistica aspirazione industriale | 8 | 6 | 2 |
