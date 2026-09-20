@@ -233,3 +233,4 @@
 | 2026-09-20 01:11 | Croazia | Šibensko-kninska | Utensilerie e Macchine Utensili | 5 | 4 | 1 |
 | 2026-09-20 06:13 | Croazia | Vukovarsko-srijemska | Depolverazione / Trattamento aria | 7 | 5 | 2 |
 | 2026-09-20 05:14 | Croazia | Vukovarsko-srijemska | Impiantistica aspirazione industriale | 8 | 6 | 3 |
+| 2026-09-20 08:35 | Croazia | Vukovarsko-srijemska | Componentistica / Ventilazione industriale | 6 | 3 | 3 |
