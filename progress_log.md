@@ -251,3 +251,4 @@
 | 2026-09-20 14:17 | Croazia | Splitsko-dalmatinska | Impiantistica aspirazione industriale | 5 | 1 | 4 |
 | 2026-09-20 15:16 | Croazia | Splitsko-dalmatinska | Componentistica / Ventilazione industriale | 15 | 4 | 11 |
 | 2026-09-20 16:20 | Croazia | Splitsko-dalmatinska | Utensilerie e Macchine Utensili | 15 | 13 | 2 |
+| 2026-09-21 00:24 | Croazia | Dubrovačko-neretvanska | Cleaning | 5 | 3 | 2 |
