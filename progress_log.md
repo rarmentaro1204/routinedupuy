@@ -255,3 +255,4 @@
 | 2026-09-21 01:15 | Croazia | Dubrovačko-neretvanska | Depolverazione / Trattamento aria | 14 | 1 | 13 |
 | 2026-09-21 04:16 | Croazia | Dubrovačko-neretvanska | Impiantistica aspirazione industriale | 3 | 0 | 3 |
 | 2026-09-21 05:12 | Croazia | Dubrovačko-neretvanska | Componentistica / Ventilazione industriale | 8 | 6 | 2 |
+| 2026-09-21 06:11 | Croazia | Dubrovačko-neretvanska | ATEX Equipment/Services | 14 | 11 | 3 |
