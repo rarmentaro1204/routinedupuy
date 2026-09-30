@@ -258,3 +258,4 @@
 | 2026-09-21 06:11 | Croazia | Dubrovačko-neretvanska | ATEX Equipment/Services | 14 | 11 | 3 |
 | 2026-09-30 16:56 | Malesia | Johor | Cleaning | 18 | 15 | 3 |
 | 2026-09-30 17:15 | Malesia | Johor | Depolverazione / Trattamento aria | 11 | 10 | 1 |
+| 2026-09-30 18:05 | Malesia | Johor | Impiantistica aspirazione industriale | 18 | 17 | 1 |
