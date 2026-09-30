@@ -262,3 +262,4 @@
 | 2026-09-30 19:15 | Malesia | Johor | Componentistica / Ventilazione industriale | 29 | 19 | 10 |
 | 2026-09-30 20:12 | Malesia | Johor | ATEX Equipment/Services | 19 | 8 | 11 |
 | 2026-09-30 21:13 | Malesia | Johor | Utensilerie e Macchine Utensili | 25 | 22 | 3 |
+| 2026-09-30 22:12 | Malesia | Johor | Metalworking / Lavorazioni Metalliche | 32 | 27 | 5 |
