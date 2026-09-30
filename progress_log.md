@@ -260,3 +260,4 @@
 | 2026-09-30 17:15 | Malesia | Johor | Depolverazione / Trattamento aria | 11 | 10 | 1 |
 | 2026-09-30 18:05 | Malesia | Johor | Impiantistica aspirazione industriale | 18 | 17 | 1 |
 | 2026-09-30 19:15 | Malesia | Johor | Componentistica / Ventilazione industriale | 29 | 19 | 10 |
+| 2026-09-30 20:12 | Malesia | Johor | ATEX Equipment/Services | 19 | 8 | 11 |
