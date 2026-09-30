@@ -261,3 +261,4 @@
 | 2026-09-30 18:05 | Malesia | Johor | Impiantistica aspirazione industriale | 18 | 17 | 1 |
 | 2026-09-30 19:15 | Malesia | Johor | Componentistica / Ventilazione industriale | 29 | 19 | 10 |
 | 2026-09-30 20:12 | Malesia | Johor | ATEX Equipment/Services | 19 | 8 | 11 |
+| 2026-09-30 21:13 | Malesia | Johor | Utensilerie e Macchine Utensili | 25 | 22 | 3 |
