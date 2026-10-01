@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-09-21T05:25:18Z",
+  "last_run_at": "2026-10-01T05:33:00Z",
   "processed_files": [
     "2026-08-31_08_Italia_Toscana_Cleaning.xlsx",
     "2026-08-31_09_Italia_Toscana_Depolverazione_Trattamento_aria.xlsx",
@@ -250,6 +250,21 @@
     "2026-09-21_01_Croazia_Dubrovačko-neretvanska_Depolverazione_Trattamento_aria.xlsx",
     "2026-09-21_04_Croazia_Dubrovačko-neretvanska_Impiantistica_aspirazione_industriale.xlsx",
     "2026-09-21_05_Croazia_Dubrovačko-neretvanska_Componentistica_Ventilazione_industriale.xlsx",
-    "2026-09-21_06_Croazia_Dubrovačko-neretvanska_ATEX_Equipment-Services.xlsx"
+    "2026-09-21_06_Croazia_Dubrovačko-neretvanska_ATEX_Equipment-Services.xlsx",
+    "2026-09-30_16_Malesia_Johor_Cleaning.xlsx",
+    "2026-09-30_17_Malesia_Johor_Depolverazione_Trattamento_aria.xlsx",
+    "2026-09-30_18_Malesia_Johor_Impiantistica_aspirazione_industriale.xlsx",
+    "2026-09-30_19_Malesia_Johor_Componentistica_Ventilazione_industriale.xlsx",
+    "2026-09-30_20_Malesia_Johor_ATEX_Equipment_Services.xlsx",
+    "2026-09-30_21_Malesia_Johor_Utensilerie_e_Macchine_Utensili.xlsx",
+    "2026-09-30_22_Malesia_Johor_Metalworking_Lavorazioni_Metalliche.xlsx",
+    "2026-09-30_23_Malesia_Kedah_Cleaning.xlsx",
+    "2026-09-30_23_Malesia_Kedah_Depolverazione_Trattamento_aria.xlsx",
+    "2026-10-01_01_Malesia_Kedah_Impiantistica_aspirazione_industriale.xlsx",
+    "2026-10-01_02_Malesia_Kedah_Componentistica_Ventilazione_industriale.xlsx",
+    "2026-10-01_03_Malesia_Kedah_ATEX_Equipment_Services.xlsx",
+    "2026-10-01_04_Malesia_Kedah_Utensilerie_e_Macchine_Utensili.xlsx",
+    "2026-10-01_05_Malesia_Kedah_Metalworking_Lavorazioni_Metalliche.xlsx",
+    "2026-10-01_06_Malesia_Kelantan_Cleaning.xlsx"
   ]
 }
