@@ -278,3 +278,4 @@
 | 2026-10-01 19:11 | Malesia | Kelantan | Utensilerie e Macchine Utensili | 26 | 24 | 2 |
 | 2026-10-01 20:12 | Malesia | Kelantan | Metalworking / Lavorazioni Metalliche | 20 | 17 | 3 |
 | 2026-10-01 21:05 | Malesia | Melaka | Cleaning | 8 | 5 | 3 |
+| 2026-10-01 22:06 | Malesia | Melaka | Depolverazione / Trattamento aria | 16 | 13 | 3 |
