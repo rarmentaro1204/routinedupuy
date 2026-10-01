@@ -266,3 +266,4 @@
 | 2026-09-30 23:11 | Malesia | Kedah | Cleaning | 6 | 4 | 2 |
 | 2026-10-01 00:11 | Malesia | Kedah | Depolverazione / Trattamento aria | 9 | 2 | 7 |
 | 2026-10-01 01:12 | Malesia | Kedah | Impiantistica aspirazione industriale | 17 | 10 | 7 |
+| 2026-10-01 02:12 | Malesia | Kedah | Componentistica / Ventilazione industriale | 13 | 5 | 8 |
