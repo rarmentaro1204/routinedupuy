@@ -269,3 +269,4 @@
 | 2026-10-01 02:12 | Malesia | Kedah | Componentistica / Ventilazione industriale | 13 | 5 | 8 |
 | 2026-10-01 03:12 | Malesia | Kedah | ATEX Equipment/Services | 11 | 7 | 4 |
 | 2026-10-01 04:13 | Malesia | Kedah | Utensilerie e Macchine Utensili | 35 | 27 | 8 |
+| 2026-10-01 05:10 | Malesia | Kedah | Metalworking / Lavorazioni Metalliche | 10 | 9 | 1 |
