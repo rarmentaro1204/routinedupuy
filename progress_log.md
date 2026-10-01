@@ -267,3 +267,4 @@
 | 2026-10-01 00:11 | Malesia | Kedah | Depolverazione / Trattamento aria | 9 | 2 | 7 |
 | 2026-10-01 01:12 | Malesia | Kedah | Impiantistica aspirazione industriale | 17 | 10 | 7 |
 | 2026-10-01 02:12 | Malesia | Kedah | Componentistica / Ventilazione industriale | 13 | 5 | 8 |
+| 2026-10-01 03:12 | Malesia | Kedah | ATEX Equipment/Services | 11 | 7 | 4 |
