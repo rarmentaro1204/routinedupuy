@@ -276,3 +276,4 @@
 | 2026-10-01 17:12 | Malesia | Kelantan | Componentistica / Ventilazione industriale | 18 | 5 | 13 |
 | 2026-10-01 18:13 | Malesia | Kelantan | ATEX Equipment/Services | 17 | 7 | 10 |
 | 2026-10-01 19:11 | Malesia | Kelantan | Utensilerie e Macchine Utensili | 26 | 24 | 2 |
+| 2026-10-01 20:12 | Malesia | Kelantan | Metalworking / Lavorazioni Metalliche | 20 | 17 | 3 |
