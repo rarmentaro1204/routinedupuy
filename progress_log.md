@@ -289,3 +289,4 @@
 | 2026-10-02 18:09 | Malesia | Negeri Sembilan | Impiantistica aspirazione industriale | 15 | 7 | 8 |
 | 2026-10-02 19:12 | Malesia | Negeri Sembilan | Componentistica / Ventilazione industriale | 8 | 5 | 3 |
 | 2026-10-02 20:10 | Malesia | Negeri Sembilan | ATEX Equipment/Services | 12 | 11 | 1 |
+| 2026-10-02 20:18 | Malesia | Negeri Sembilan | Utensilerie e Macchine Utensili | 8 | 3 | 5 |
