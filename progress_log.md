@@ -293,3 +293,4 @@
 | 2026-10-02 21:15 | Malesia | Negeri Sembilan | Metalworking / Lavorazioni Metalliche | 4 | 3 | 1 |
 | 2026-10-02 21:11 | Malesia | Pahang | Cleaning | 9 | 7 | 2 |
 | 2026-10-02 22:09 | Malesia | Pahang | Depolverazione / Trattamento aria | 7 | 1 | 6 |
+| 2026-10-02 22:58 | Malesia | Pahang | Impiantistica aspirazione industriale | 17 | 0 | 17 |
