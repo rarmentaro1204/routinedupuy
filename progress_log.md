@@ -283,3 +283,4 @@
 | 2026-10-02 00:13 | Malesia | Melaka | Componentistica / Ventilazione industriale | 11 | 2 | 9 |
 | 2026-10-02 03:11 | Malesia | Melaka | ATEX Equipment/Services | 14 | 12 | 2 |
 | 2026-10-02 09:12 | Malesia | Melaka | Utensilerie e Macchine Utensili | 12 | 10 | 2 |
+| 2026-10-02 05:11 | Malesia | Melaka | Metalworking / Lavorazioni Metalliche | 18 | 17 | 1 |
