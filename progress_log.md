@@ -291,3 +291,4 @@
 | 2026-10-02 20:10 | Malesia | Negeri Sembilan | ATEX Equipment/Services | 12 | 11 | 1 |
 | 2026-10-02 20:18 | Malesia | Negeri Sembilan | Utensilerie e Macchine Utensili | 8 | 3 | 5 |
 | 2026-10-02 21:15 | Malesia | Negeri Sembilan | Metalworking / Lavorazioni Metalliche | 4 | 3 | 1 |
+| 2026-10-02 21:11 | Malesia | Pahang | Cleaning | 9 | 7 | 2 |
