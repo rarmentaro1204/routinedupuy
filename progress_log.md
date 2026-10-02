@@ -287,3 +287,4 @@
 | 2026-10-02 06:10 | Malesia | Negeri Sembilan | Cleaning | 6 | 4 | 2 |
 | 2026-10-02 17:06 | Malesia | Negeri Sembilan | Depolverazione / Trattamento aria | 5 | 1 | 4 |
 | 2026-10-02 18:09 | Malesia | Negeri Sembilan | Impiantistica aspirazione industriale | 15 | 7 | 8 |
+| 2026-10-02 19:12 | Malesia | Negeri Sembilan | Componentistica / Ventilazione industriale | 8 | 5 | 3 |
