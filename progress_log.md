@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-10-03 19:09 | Malesia | Perlis | Metalworking / Lavorazioni Metalliche | 4 | 3 | 1 |
 | 2026-10-03 16:14 | Malesia | Perlis | Componentistica / Ventilazione industriale | 9 | 6 | 3 |
 | 2026-10-03 17:15 | Malesia | Perak | Metalworking / Lavorazioni Metalliche | 11 | 6 | 5 |
 | 2026-10-03 05:12 | Malesia | Pahang | Metalworking / Lavorazioni Metalliche | 5 | 2 | 3 |
