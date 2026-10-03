@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-10-03 17:15 | Malesia | Perak | Metalworking / Lavorazioni Metalliche | 11 | 6 | 5 |
 | 2026-10-03 05:12 | Malesia | Pahang | Metalworking / Lavorazioni Metalliche | 5 | 2 | 3 |
 | 2026-09-21 01:12 | Croazia | Istarska | Metalworking / Lavorazioni Metalliche | 6 | 4 | 2 |
 | 2026-09-21 00:12 | Croazia | Istarska | Utensilerie e Macchine Utensili | 12 | 9 | 3 |
