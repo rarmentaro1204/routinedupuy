@@ -300,3 +300,4 @@
 | 2026-10-03 02:12 | Malesia | Pahang | Utensilerie e Macchine Utensili | 8 | 3 | 5 |
 | 2026-10-03 06:11 | Malesia | Perak | Cleaning | 10 | 2 | 8 |
 | 2026-10-03 05:10 | Malesia | Perak | Depolverazione / Trattamento aria | 9 | 0 | 9 |
+| 2026-10-03 07:08 | Malesia | Perak | Impiantistica aspirazione industriale | 8 | 2 | 6 |
