@@ -309,3 +309,4 @@
 | 2026-10-03 13:07 | Malesia | Perlis | Cleaning | 10 | 6 | 4 |
 | 2026-10-03 14:00 | Malesia | Perlis | Depolverazione / Trattamento aria | 11 | 7 | 4 |
 | 2026-10-03 17:18 | Malesia | Perlis | Impiantistica aspirazione industriale | 12 | 9 | 3 |
+| 2026-10-03 17:09 | Malesia | Perlis | ATEX Equipment/Services | 8 | 4 | 4 |
