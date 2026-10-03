@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-10-01T05:33:00Z",
+  "last_run_at": "2026-10-03T05:28:35Z",
   "processed_files": [
     "2026-08-31_08_Italia_Toscana_Cleaning.xlsx",
     "2026-08-31_09_Italia_Toscana_Depolverazione_Trattamento_aria.xlsx",
@@ -265,6 +265,35 @@
     "2026-10-01_03_Malesia_Kedah_ATEX_Equipment_Services.xlsx",
     "2026-10-01_04_Malesia_Kedah_Utensilerie_e_Macchine_Utensili.xlsx",
     "2026-10-01_05_Malesia_Kedah_Metalworking_Lavorazioni_Metalliche.xlsx",
-    "2026-10-01_06_Malesia_Kelantan_Cleaning.xlsx"
+    "2026-10-01_06_Malesia_Kelantan_Cleaning.xlsx",
+    "2026-10-01_07_Malesia_Kelantan_Depolverazione_Trattamento_aria.xlsx",
+    "2026-10-01_16_Malesia_Kelantan_Impiantistica_aspirazione_industriale.xlsx",
+    "2026-10-01_17_Malesia_Kelantan_Componentistica_Ventilazione_industriale.xlsx",
+    "2026-10-01_18_Malesia_Kelantan_ATEX_Equipment_Services.xlsx",
+    "2026-10-01_19_Malesia_Kelantan_Utensilerie_e_Macchine_Utensili.xlsx",
+    "2026-10-01_20_Malesia_Kelantan_Metalworking_Lavorazioni_Metalliche.xlsx",
+    "2026-10-01_21_Malesia_Melaka_Cleaning.xlsx",
+    "2026-10-01_22_Malesia_Melaka_Depolverazione_Trattamento_aria.xlsx",
+    "2026-10-01_23_Malesia_Melaka_Impiantistica_aspirazione_industriale.xlsx",
+    "2026-10-02_01_Malesia_Melaka_Componentistica_Ventilazione_industriale.xlsx",
+    "2026-10-02_03_Malesia_Melaka_ATEX_Equipment_Services.xlsx",
+    "2026-10-02_03_Malesia_Melaka_Metalworking_Lavorazioni_Metalliche.xlsx",
+    "2026-10-02_06_Malesia_Negeri_Sembilan_Cleaning.xlsx",
+    "2026-10-02_09_Malesia_Melaka_Utensilerie_e_Macchine_Utensili.xlsx",
+    "2026-10-02_15_Malesia_Negeri_Sembilan_Depolverazione_Trattamento_aria.xlsx",
+    "2026-10-02_16_Malesia_Negeri_Sembilan_Impiantistica_aspirazione_industriale.xlsx",
+    "2026-10-02_17_Malesia_Pahang_Cleaning.xlsx",
+    "2026-10-02_18_Malesia_Negeri_Sembilan_ATEX_Equipment_Services.xlsx",
+    "2026-10-02_19_Malesia_Negeri_Sembilan_Componentistica_Ventilazione_industriale.xlsx",
+    "2026-10-02_20_Malesia_Negeri_Sembilan_Utensilerie_e_Macchine_Utensili.xlsx",
+    "2026-10-02_21_Malesia_Negeri_Sembilan_Metalworking_Lavorazioni_Metalliche.xlsx",
+    "2026-10-02_21_Malesia_Pahang_Depolverazione_Trattamento_aria.xlsx",
+    "2026-10-02_22_Malesia_Pahang_Impiantistica_aspirazione_industriale.xlsx",
+    "2026-10-03_00_Malesia_Pahang_Componentistica_Ventilazione_industriale.xlsx",
+    "2026-10-03_01_Malesia_Pahang_ATEX_Equipment_Services.xlsx",
+    "2026-10-03_02_Malesia_Pahang_Utensilerie_e_Macchine_Utensili.xlsx",
+    "2026-10-03_03_Malesia_Pahang_Metalworking_Lavorazioni_Metalliche.xlsx",
+    "2026-10-03_05_Malesia_Perak_Depolverazione_Trattamento_aria.xlsx",
+    "2026-10-03_17_Malesia_Perak_Cleaning.xlsx"
   ]
 }
