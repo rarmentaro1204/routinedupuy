@@ -299,3 +299,4 @@
 | 2026-10-03 01:11 | Malesia | Pahang | ATEX Equipment/Services | 8 | 4 | 4 |
 | 2026-10-03 02:12 | Malesia | Pahang | Utensilerie e Macchine Utensili | 8 | 3 | 5 |
 | 2026-10-03 06:11 | Malesia | Perak | Cleaning | 10 | 2 | 8 |
+| 2026-10-03 05:10 | Malesia | Perak | Depolverazione / Trattamento aria | 9 | 0 | 9 |
