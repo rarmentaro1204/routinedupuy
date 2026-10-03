@@ -307,3 +307,4 @@
 | 2026-10-03 11:09 | Malesia | Perak | Utensilerie e Macchine Utensili | 6 | 4 | 2 |
 | 2026-10-03 13:07 | Malesia | Perlis | Cleaning | 10 | 6 | 4 |
 | 2026-10-03 14:00 | Malesia | Perlis | Depolverazione / Trattamento aria | 11 | 7 | 4 |
+| 2026-10-03 17:18 | Malesia | Perlis | Impiantistica aspirazione industriale | 12 | 9 | 3 |
