@@ -313,3 +313,4 @@
 | 2026-10-03 17:09 | Malesia | Perlis | ATEX Equipment/Services | 8 | 4 | 4 |
 | 2026-10-03 18:10 | Malesia | Perlis | Utensilerie e Macchine Utensili | 7 | 3 | 4 |
 | 2026-10-03 20:12 | Malesia | Pulau Pinang | Cleaning | 8 | 6 | 2 |
+| 2026-10-03 21:10 | Malesia | Pulau Pinang | Depolverazione / Trattamento aria | 4 | 1 | 4 |
