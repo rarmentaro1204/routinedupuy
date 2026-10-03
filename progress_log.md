@@ -301,3 +301,4 @@
 | 2026-10-03 06:11 | Malesia | Perak | Cleaning | 10 | 2 | 8 |
 | 2026-10-03 05:10 | Malesia | Perak | Depolverazione / Trattamento aria | 9 | 0 | 9 |
 | 2026-10-03 07:08 | Malesia | Perak | Impiantistica aspirazione industriale | 8 | 2 | 6 |
+| 2026-10-03 09:15 | Malesia | Perak | Componentistica / Ventilazione industriale | 6 | 0 | 6 |
