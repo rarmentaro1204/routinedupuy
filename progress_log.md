@@ -315,3 +315,4 @@
 | 2026-10-03 20:12 | Malesia | Pulau Pinang | Cleaning | 8 | 6 | 2 |
 | 2026-10-03 21:10 | Malesia | Pulau Pinang | Depolverazione / Trattamento aria | 4 | 1 | 4 |
 | 2026-10-03 22:17 | Malesia | Pulau Pinang | Impiantistica aspirazione industriale | 13 | 2 | 11 |
+| 2026-10-03 22:14 | Malesia | Pulau Pinang | Componentistica / Ventilazione industriale | 6 | 0 | 6 |
