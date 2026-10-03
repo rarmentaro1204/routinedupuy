@@ -305,3 +305,4 @@
 | 2026-10-03 09:15 | Malesia | Perak | Componentistica / Ventilazione industriale | 6 | 0 | 6 |
 | 2026-10-03 08:09 | Malesia | Perak | ATEX Equipment/Services | 8 | 5 | 3 |
 | 2026-10-03 11:09 | Malesia | Perak | Utensilerie e Macchine Utensili | 6 | 4 | 2 |
+| 2026-10-03 13:07 | Malesia | Perlis | Cleaning | 10 | 6 | 4 |
