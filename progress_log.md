@@ -294,3 +294,4 @@
 | 2026-10-02 21:11 | Malesia | Pahang | Cleaning | 9 | 7 | 2 |
 | 2026-10-02 22:09 | Malesia | Pahang | Depolverazione / Trattamento aria | 7 | 1 | 6 |
 | 2026-10-02 22:58 | Malesia | Pahang | Impiantistica aspirazione industriale | 17 | 0 | 17 |
+| 2026-10-03 00:11 | Malesia | Pahang | Componentistica / Ventilazione industriale | 8 | 0 | 8 |
