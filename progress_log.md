@@ -332,3 +332,4 @@
 | 2026-10-04 13:08 | Malesia | Sarawak | Impiantistica aspirazione industriale | 14 | 1 | 13 |
 | 2026-10-04 14:09 | Malesia | Sarawak | Componentistica / Ventilazione industriale | 8 | 4 | 4 |
 | 2026-10-04 15:07 | Malesia | Sarawak | ATEX Equipment/Services | 9 | 3 | 6 |
+| 2026-10-04 17:13 | Malesia | Sarawak | Metalworking / Lavorazioni Metalliche | 15 | 10 | 5 |
