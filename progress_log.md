@@ -334,3 +334,4 @@
 | 2026-10-04 14:09 | Malesia | Sarawak | Componentistica / Ventilazione industriale | 8 | 4 | 4 |
 | 2026-10-04 15:07 | Malesia | Sarawak | ATEX Equipment/Services | 9 | 3 | 6 |
 | 2026-10-04 17:13 | Malesia | Sarawak | Metalworking / Lavorazioni Metalliche | 15 | 10 | 5 |
+| 2026-10-04 19:12 | Malesia | Selangor | Depolverazione / Trattamento aria | 13 | 5 | 8 |
