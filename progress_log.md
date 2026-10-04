@@ -324,3 +324,4 @@
 | 2026-10-04 06:09 | Malesia | Sabah | Impiantistica aspirazione industriale | 2 | 0 | 2 |
 | 2026-10-04 05:08 | Malesia | Sabah | Componentistica / Ventilazione industriale | 10 | 7 | 4 |
 | 2026-10-04 08:09 | Malesia | Sabah | ATEX Equipment/Services | 6 | 3 | 3 |
+| 2026-10-04 09:10 | Malesia | Sabah | Utensilerie e Macchine Utensili | 12 | 1 | 11 |
