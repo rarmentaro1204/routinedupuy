@@ -323,3 +323,4 @@
 | 2026-10-04 05:11 | Malesia | Sabah | Depolverazione / Trattamento aria | 4 | 0 | 4 |
 | 2026-10-04 06:09 | Malesia | Sabah | Impiantistica aspirazione industriale | 2 | 0 | 2 |
 | 2026-10-04 05:08 | Malesia | Sabah | Componentistica / Ventilazione industriale | 10 | 7 | 4 |
+| 2026-10-04 08:09 | Malesia | Sabah | ATEX Equipment/Services | 6 | 3 | 3 |
