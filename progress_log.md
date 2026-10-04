@@ -322,3 +322,4 @@
 | 2026-10-04 15:11 | Malesia | Sabah | Cleaning | 16 | 1 | 15 |
 | 2026-10-04 05:11 | Malesia | Sabah | Depolverazione / Trattamento aria | 4 | 0 | 4 |
 | 2026-10-04 06:09 | Malesia | Sabah | Impiantistica aspirazione industriale | 2 | 0 | 2 |
+| 2026-10-04 05:08 | Malesia | Sabah | Componentistica / Ventilazione industriale | 10 | 7 | 4 |
