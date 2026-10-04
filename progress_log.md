@@ -320,3 +320,4 @@
 | 2026-10-04 00:12 | Malesia | Pulau Pinang | Utensilerie e Macchine Utensili | 15 | 15 | 0 |
 | 2026-10-04 14:00 | Malesia | Pulau Pinang | Metalworking / Lavorazioni Metalliche | 22 | 12 | 10 |
 | 2026-10-04 15:11 | Malesia | Sabah | Cleaning | 16 | 1 | 15 |
+| 2026-10-04 05:11 | Malesia | Sabah | Depolverazione / Trattamento aria | 4 | 0 | 4 |
