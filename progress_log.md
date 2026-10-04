@@ -329,3 +329,4 @@
 | 2026-10-04 09:08 | Malesia | Sarawak | Cleaning | 13 | 6 | 7 |
 | 2026-10-04 12:09 | Malesia | Sarawak | Depolverazione / Trattamento aria | 10 | 1 | 9 |
 | 2026-10-04 13:08 | Malesia | Sarawak | Impiantistica aspirazione industriale | 14 | 1 | 13 |
+| 2026-10-04 14:09 | Malesia | Sarawak | Componentistica / Ventilazione industriale | 8 | 4 | 4 |
