@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-10-04 18:10 | Malesia | Selangor | Cleaning | 14 | 7 | 7 |
 | 2026-10-04 16:10 | Malesia | Sarawak | Utensilerie e Macchine Utensili | 13 | 10 | 3 |
 | 2026-10-04 10:14 | Malesia | Sabah | Metalworking / Lavorazioni Metalliche | 8 | 4 | 4 |
 | 2026-10-03 19:09 | Malesia | Perlis | Metalworking / Lavorazioni Metalliche | 4 | 3 | 1 |
