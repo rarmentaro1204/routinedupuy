@@ -337,3 +337,4 @@
 | 2026-10-04 19:12 | Malesia | Selangor | Depolverazione / Trattamento aria | 13 | 5 | 8 |
 | 2026-10-04 20:17 | Malesia | Selangor | Impiantistica aspirazione industriale | 18 | 15 | 3 |
 | 2026-10-04 21:11 | Malesia | Selangor | Componentistica / Ventilazione industriale | 17 | 13 | 4 |
+| 2026-10-04 22:11 | Malesia | Selangor | ATEX Equipment/Services | 12 | 6 | 6 |
