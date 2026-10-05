@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-10-06 01:11 | Croazia | Međimurska | Utensilerie e Macchine Utensili | 5 | 4 | 1 |
 | 2026-10-05 21:10 | Croazia | Međimurska | Depolverazione / Trattamento aria | 6 | 5 | 1 |
 | 2026-10-05 01:12 | Malesia | Terengganu | Cleaning | 7 | 5 | 2 |
 | 2026-10-04 23:19 | Malesia | Selangor | Metalworking / Lavorazioni Metalliche | 20 | 14 | 6 |
