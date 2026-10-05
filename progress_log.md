@@ -353,3 +353,4 @@
 | 2026-10-05 20:11 | Croazia | Međimurska | Cleaning | 6 | 6 | 0 |
 | 2026-10-05 20:11 | Croazia | Međimurska | Impiantistica aspirazione industriale | 4 | 3 | 1 |
 | 2026-10-05 23:12 | Croazia | Međimurska | Componentistica / Ventilazione industriale | 7 | 0 | 7 |
+| 2026-10-05 22:12 | Croazia | Međimurska | ATEX Equipment/Services | 6 | 3 | 3 |
