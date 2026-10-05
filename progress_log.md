@@ -345,3 +345,4 @@
 | 2026-10-05 03:11 | Malesia | Terengganu | Impiantistica aspirazione industriale | 3 | 1 | 2 |
 | 2026-10-05 04:12 | Malesia | Terengganu | Componentistica / Ventilazione industriale | 11 | 2 | 9 |
 | 2026-10-05 05:09 | Malesia | Terengganu | ATEX Equipment/Services | 7 | 3 | 4 |
+| 2026-10-05 06:17 | Malesia | Terengganu | Utensilerie e Macchine Utensili | 12 | 5 | 7 |
