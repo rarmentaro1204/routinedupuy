@@ -342,3 +342,4 @@
 | 2026-10-04 22:11 | Malesia | Selangor | ATEX Equipment/Services | 12 | 6 | 6 |
 | 2026-10-04 23:11 | Malesia | Selangor | Utensilerie e Macchine Utensili | 21 | 20 | 1 |
 | 2026-10-05 02:12 | Malesia | Terengganu | Depolverazione / Trattamento aria | 8 | 0 | 8 |
+| 2026-10-05 03:11 | Malesia | Terengganu | Impiantistica aspirazione industriale | 3 | 1 | 2 |
