@@ -348,3 +348,4 @@
 | 2026-10-05 06:17 | Malesia | Terengganu | Utensilerie e Macchine Utensili | 12 | 5 | 7 |
 | 2026-10-05 15:22 | Malesia | Terengganu | Metalworking / Lavorazioni Metalliche | 15 | 12 | 3 |
 | 2026-10-05 17:07 | Croazia | Dubrovačko-neretvanska | Utensilerie e Macchine Utensili | 4 | 3 | 1 |
+| 2026-10-05 17:12 | Croazia | Dubrovačko-neretvanska | Metalworking / Lavorazioni Metalliche | 7 | 1 | 6 |
