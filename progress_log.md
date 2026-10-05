@@ -347,3 +347,4 @@
 | 2026-10-05 05:09 | Malesia | Terengganu | ATEX Equipment/Services | 7 | 3 | 4 |
 | 2026-10-05 06:17 | Malesia | Terengganu | Utensilerie e Macchine Utensili | 12 | 5 | 7 |
 | 2026-10-05 15:22 | Malesia | Terengganu | Metalworking / Lavorazioni Metalliche | 15 | 12 | 3 |
+| 2026-10-05 17:07 | Croazia | Dubrovačko-neretvanska | Utensilerie e Macchine Utensili | 4 | 3 | 1 |
