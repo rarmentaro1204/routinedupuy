@@ -346,3 +346,4 @@
 | 2026-10-05 04:12 | Malesia | Terengganu | Componentistica / Ventilazione industriale | 11 | 2 | 9 |
 | 2026-10-05 05:09 | Malesia | Terengganu | ATEX Equipment/Services | 7 | 3 | 4 |
 | 2026-10-05 06:17 | Malesia | Terengganu | Utensilerie e Macchine Utensili | 12 | 5 | 7 |
+| 2026-10-05 15:22 | Malesia | Terengganu | Metalworking / Lavorazioni Metalliche | 15 | 12 | 3 |
