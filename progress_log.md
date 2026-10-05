@@ -351,3 +351,4 @@
 | 2026-10-05 17:07 | Croazia | Dubrovačko-neretvanska | Utensilerie e Macchine Utensili | 4 | 3 | 1 |
 | 2026-10-05 17:12 | Croazia | Dubrovačko-neretvanska | Metalworking / Lavorazioni Metalliche | 7 | 1 | 6 |
 | 2026-10-05 20:11 | Croazia | Međimurska | Cleaning | 6 | 6 | 0 |
+| 2026-10-05 20:11 | Croazia | Međimurska | Impiantistica aspirazione industriale | 4 | 3 | 1 |
