@@ -358,3 +358,4 @@
 | 2026-10-05 22:12 | Croazia | Međimurska | ATEX Equipment/Services | 6 | 3 | 3 |
 | 2026-10-06 03:11 | Croazia | Grad Zagreb | Cleaning | 4 | 3 | 1 |
 | 2026-10-06 04:11 | Croazia | Grad Zagreb | Depolverazione / Trattamento aria | 11 | 3 | 8 |
+| 2026-10-06 05:12 | Croazia | Grad Zagreb | Impiantistica aspirazione industriale | 6 | 4 | 2 |
