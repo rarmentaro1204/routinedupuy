@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-10-06 22:12 | Serbia | Grad Beograd | Impiantistica aspirazione industriale | 12 | 4 | 8 |
 | 2026-10-06 21:13 | Serbia | Grad Beograd | Depolverazione / Trattamento aria | 13 | 6 | 7 |
 | 2026-10-06 19:11 | Croazia | Grad Zagreb | Metalworking / Lavorazioni Metalliche | 10 | 9 | 1 |
 | 2026-10-06 18:15 | Croazia | Grad Zagreb | Utensilerie e Macchine Utensili | 19 | 12 | 7 |
