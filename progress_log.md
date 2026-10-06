@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-10-06 18:15 | Croazia | Grad Zagreb | Utensilerie e Macchine Utensili | 19 | 12 | 7 |
 | 2026-10-06 17:09 | Croazia | Grad Zagreb | ATEX Equipment/Services | 5 | 2 | 3 |
 | 2026-10-06 02:11 | Croazia | Međimurska | Metalworking / Lavorazioni Metalliche | 9 | 2 | 7 |
 | 2026-10-06 01:11 | Croazia | Međimurska | Utensilerie e Macchine Utensili | 5 | 4 | 1 |
