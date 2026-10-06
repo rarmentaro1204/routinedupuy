@@ -366,3 +366,4 @@
 | 2026-10-06 05:12 | Croazia | Grad Zagreb | Impiantistica aspirazione industriale | 6 | 4 | 2 |
 | 2026-10-06 06:13 | Croazia | Grad Zagreb | Componentistica / Ventilazione industriale | 11 | 5 | 6 |
 | 2026-10-06 20:11 | Serbia | Grad Beograd | Cleaning | 10 | 2 | 8 |
+| 2026-10-06 23:13 | Serbia | Grad Beograd | Componentistica / Ventilazione industriale | 14 | 7 | 7 |
