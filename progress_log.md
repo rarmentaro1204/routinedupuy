@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-10-07 05:12 | Serbia | Mačvanski | Impiantistica aspirazione industriale | 4 | 1 | 3 |
 | 2026-10-07 04:13 | Serbia | Mačvanski | Depolverazione / Trattamento aria | 4 | 1 | 3 |
 | 2026-10-07 03:10 | Serbia | Mačvanski | Cleaning | 2 | 1 | 1 |
 | 2026-10-07 01:15 | Serbia | Grad Beograd | Utensilerie e Macchine Utensili | 42 | 42 | 0 |
