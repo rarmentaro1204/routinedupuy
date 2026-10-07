@@ -369,3 +369,4 @@
 | 2026-10-06 20:11 | Serbia | Grad Beograd | Cleaning | 10 | 2 | 8 |
 | 2026-10-06 23:13 | Serbia | Grad Beograd | Componentistica / Ventilazione industriale | 14 | 7 | 7 |
 | 2026-10-07 00:12 | Serbia | Grad Beograd | ATEX Equipment/Services | 7 | 2 | 5 |
+| 2026-10-07 02:16 | Serbia | Grad Beograd | Metalworking / Lavorazioni Metalliche | 63 | 56 | 7 |
