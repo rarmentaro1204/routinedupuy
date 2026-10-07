@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-10-07 17:20 | Serbia | Mačvanski | ATEX Equipment/Services | 5 | 0 | 5 |
 | 2026-10-07 06:16 | Serbia | Mačvanski | Componentistica / Ventilazione industriale | 15 | 12 | 3 |
 | 2026-10-07 05:12 | Serbia | Mačvanski | Impiantistica aspirazione industriale | 4 | 1 | 3 |
 | 2026-10-07 04:13 | Serbia | Mačvanski | Depolverazione / Trattamento aria | 4 | 1 | 3 |
