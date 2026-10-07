@@ -376,3 +376,4 @@
 | 2026-10-07 00:12 | Serbia | Grad Beograd | ATEX Equipment/Services | 7 | 2 | 5 |
 | 2026-10-07 02:16 | Serbia | Grad Beograd | Metalworking / Lavorazioni Metalliche | 63 | 56 | 7 |
 | 2026-10-07 18:09 | Serbia | Mačvanski | Utensilerie e Macchine Utensili | 8 | 4 | 4 |
+| 2026-10-07 19:11 | Serbia | Mačvanski | Metalworking / Lavorazioni Metalliche | 4 | 1 | 3 |
