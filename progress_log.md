@@ -375,3 +375,4 @@
 | 2026-10-06 23:13 | Serbia | Grad Beograd | Componentistica / Ventilazione industriale | 14 | 7 | 7 |
 | 2026-10-07 00:12 | Serbia | Grad Beograd | ATEX Equipment/Services | 7 | 2 | 5 |
 | 2026-10-07 02:16 | Serbia | Grad Beograd | Metalworking / Lavorazioni Metalliche | 63 | 56 | 7 |
+| 2026-10-07 18:09 | Serbia | Mačvanski | Utensilerie e Macchine Utensili | 8 | 4 | 4 |
