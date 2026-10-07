@@ -381,3 +381,4 @@
 | 2026-10-07 20:12 | Serbia | Kolubarski | Cleaning | 7 | 1 | 6 |
 | 2026-10-07 22:08 | Serbia | Kolubarski | Impiantistica aspirazione industriale | 2 | 0 | 2 |
 | 2026-10-07 23:07 | Serbia | Kolubarski | Componentistica / Ventilazione industriale | 0 | 0 | 0 |
+| 2026-10-08 00:11 | Serbia | Kolubarski | ATEX Equipment/Services | 2 | 2 | 0 |
