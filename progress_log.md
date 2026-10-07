@@ -377,3 +377,4 @@
 | 2026-10-07 02:16 | Serbia | Grad Beograd | Metalworking / Lavorazioni Metalliche | 63 | 56 | 7 |
 | 2026-10-07 18:09 | Serbia | Mačvanski | Utensilerie e Macchine Utensili | 8 | 4 | 4 |
 | 2026-10-07 19:11 | Serbia | Mačvanski | Metalworking / Lavorazioni Metalliche | 4 | 1 | 3 |
+| 2026-10-07 20:12 | Serbia | Kolubarski | Cleaning | 7 | 1 | 6 |
