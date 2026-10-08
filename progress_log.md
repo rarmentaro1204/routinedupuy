@@ -384,3 +384,4 @@
 | 2026-10-08 00:11 | Serbia | Kolubarski | ATEX Equipment/Services | 2 | 2 | 0 |
 | 2026-10-08 01:16 | Serbia | Kolubarski | Utensilerie e Macchine Utensili | 15 | 5 | 10 |
 | 2026-10-08 02:13 | Serbia | Kolubarski | Metalworking / Lavorazioni Metalliche | 8 | 4 | 4 |
+| 2026-10-08 03:11 | Serbia | Podunavski | Cleaning | 1 | 0 | 1 |
