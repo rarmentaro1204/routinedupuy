@@ -389,3 +389,4 @@
 | 2026-10-08 05:08 | Serbia | Podunavski | Impiantistica aspirazione industriale | 2 | 0 | 2 |
 | 2026-10-08 06:09 | Serbia | Podunavski | Componentistica / Ventilazione industriale | 1 | 0 | 1 |
 | 2026-10-10 14:25 | Serbia | Podunavski | ATEX Equipment/Services | 12 | 10 | 2 |
+| 2026-10-10 17:10 | Serbia | Podunavski | Utensilerie e Macchine Utensili | 9 | 3 | 6 |
