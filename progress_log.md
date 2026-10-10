@@ -396,3 +396,4 @@
 | 2026-10-10 21:08 | Serbia | Braničevski | Impiantistica aspirazione industriale | 5 | 0 | 5 |
 | 2026-10-10 22:09 | Serbia | Braničevski | Componentistica / Ventilazione industriale | 1 | 0 | 1 |
 | 2026-10-10 23:12 | Serbia | Braničevski | ATEX Equipment/Services | 7 | 5 | 2 |
+| 2026-10-11 00:10 | Serbia | Braničevski | Utensilerie e Macchine Utensili | 8 | 7 | 1 |
