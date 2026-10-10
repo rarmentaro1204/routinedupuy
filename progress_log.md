@@ -394,3 +394,4 @@
 | 2026-10-10 19:09 | Serbia | Braničevski | Cleaning | 2 | 0 | 2 |
 | 2026-10-10 20:13 | Serbia | Braničevski | Depolverazione / Trattamento aria | 5 | 2 | 3 |
 | 2026-10-10 21:08 | Serbia | Braničevski | Impiantistica aspirazione industriale | 5 | 0 | 5 |
+| 2026-10-10 22:09 | Serbia | Braničevski | Componentistica / Ventilazione industriale | 1 | 0 | 1 |
