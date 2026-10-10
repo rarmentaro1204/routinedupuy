@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-10-10 18:13 | Serbia | Podunavski | Metalworking / Lavorazioni Metalliche | 7 | 2 | 5 |
 | 2026-10-07 21:18 | Serbia | Kolubarski | Depolverazione / Trattamento aria | 3 | 0 | 3 |
 | 2026-10-07 17:20 | Serbia | Mačvanski | ATEX Equipment/Services | 5 | 0 | 5 |
 | 2026-10-07 06:16 | Serbia | Mačvanski | Componentistica / Ventilazione industriale | 15 | 12 | 3 |
