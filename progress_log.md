@@ -4,6 +4,7 @@
 
 | Data/Ora (Europe/Rome) | Nazione | Area | Settore | Grezzi | Verificati | Scartati |
 |---|---|---|---|---|---|---|
+| 2026-10-11 09:09 | Serbia | Pomoravski | Cleaning | 6 | 0 | 6 |
 | 2026-10-11 17:14 | Serbia | Šumadijski | ATEX Equipment/Services | 3 | 2 | 1 |
 | 2026-10-10 18:13 | Serbia | Podunavski | Metalworking / Lavorazioni Metalliche | 7 | 2 | 5 |
 | 2026-10-07 21:18 | Serbia | Kolubarski | Depolverazione / Trattamento aria | 3 | 0 | 3 |
