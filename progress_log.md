@@ -411,3 +411,4 @@
 | 2026-10-11 09:08 | Serbia | Pomoravski | Impiantistica aspirazione industriale | 5 | 0 | 5 |
 | 2026-10-11 10:07 | Serbia | Pomoravski | Componentistica / Ventilazione industriale | 5 | 0 | 5 |
 | 2026-10-11 14:14 | Serbia | Pomoravski | Utensilerie e Macchine Utensili | 14 | 2 | 10 |
+| 2026-10-11 15:30 | Serbia | Pomoravski | Metalworking / Lavorazioni Metalliche | 5 | 3 | 2 |
