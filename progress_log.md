@@ -408,3 +408,4 @@
 | 2026-10-11 07:11 | Serbia | Šumadijski | Utensilerie e Macchine Utensili | 13 | 10 | 3 |
 | 2026-10-11 08:10 | Serbia | Šumadijski | Metalworking / Lavorazioni Metalliche | 7 | 4 | 3 |
 | 2026-10-11 09:08 | Serbia | Pomoravski | Impiantistica aspirazione industriale | 5 | 0 | 5 |
+| 2026-10-11 10:07 | Serbia | Pomoravski | Componentistica / Ventilazione industriale | 5 | 0 | 5 |
