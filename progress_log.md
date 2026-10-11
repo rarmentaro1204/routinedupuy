@@ -417,3 +417,4 @@
 | 2026-10-11 18:16 | Serbia | Borski | Impiantistica aspirazione industriale | 9 | 5 | 4 |
 | 2026-10-11 19:08 | Serbia | Borski | Componentistica / Ventilazione industriale | 0 | 0 | 0 |
 | 2026-10-11 20:08 | Serbia | Borski | ATEX Equipment/Services | 0 | 0 | 0 |
+| 2026-10-11 21:12 | Serbia | Borski | Utensilerie e Macchine Utensili | 7 | 1 | 6 |
