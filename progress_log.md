@@ -401,3 +401,4 @@
 | 2026-10-11 02:09 | Serbia | Šumadijski | Cleaning | 5 | 2 | 3 |
 | 2026-10-11 03:10 | Serbia | Šumadijski | Depolverazione / Trattamento aria | 5 | 1 | 4 |
 | 2026-10-11 04:09 | Serbia | Šumadijski | Impiantistica aspirazione industriale | 5 | 1 | 4 |
+| 2026-10-11 05:09 | Serbia | Šumadijski | Componentistica / Ventilazione industriale | 10 | 1 | 9 |
