@@ -413,3 +413,4 @@
 | 2026-10-11 14:14 | Serbia | Pomoravski | Utensilerie e Macchine Utensili | 14 | 2 | 10 |
 | 2026-10-11 15:30 | Serbia | Pomoravski | Metalworking / Lavorazioni Metalliche | 5 | 3 | 2 |
 | 2026-10-11 16:10 | Serbia | Borski | Cleaning | 6 | 0 | 6 |
+| 2026-10-11 17:11 | Serbia | Borski | Depolverazione / Trattamento aria | 2 | 0 | 2 |
