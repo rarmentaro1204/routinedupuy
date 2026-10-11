@@ -420,3 +420,4 @@
 | 2026-10-11 21:12 | Serbia | Borski | Utensilerie e Macchine Utensili | 7 | 1 | 6 |
 | 2026-10-11 22:13 | Serbia | Borski | Metalworking / Lavorazioni Metalliche | 7 | 0 | 7 |
 | 2026-10-11 23:11 | Serbia | Zaječarski | Cleaning | 11 | 0 | 11 |
+| 2026-10-12 00:09 | Serbia | Zaječarski | Depolverazione / Trattamento aria | 0 | 0 | 0 |
