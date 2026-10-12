@@ -424,3 +424,4 @@
 | 2026-10-12 01:11 | Serbia | Zaječarski | Impiantistica aspirazione industriale | 4 | 1 | 3 |
 | 2026-10-12 02:07 | Serbia | Zaječarski | Componentistica / Ventilazione industriale | 0 | 0 | 0 |
 | 2026-10-12 03:11 | Serbia | Zaječarski | ATEX Equipment/Services | 5 | 2 | 3 |
+| 2026-10-12 04:09 | Serbia | Zaječarski | Utensilerie e Macchine Utensili | 5 | 0 | 5 |
