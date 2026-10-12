@@ -422,3 +422,4 @@
 | 2026-10-11 23:11 | Serbia | Zaječarski | Cleaning | 11 | 0 | 11 |
 | 2026-10-12 00:09 | Serbia | Zaječarski | Depolverazione / Trattamento aria | 0 | 0 | 0 |
 | 2026-10-12 01:11 | Serbia | Zaječarski | Impiantistica aspirazione industriale | 4 | 1 | 3 |
+| 2026-10-12 02:07 | Serbia | Zaječarski | Componentistica / Ventilazione industriale | 0 | 0 | 0 |
