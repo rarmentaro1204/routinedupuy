@@ -426,3 +426,4 @@
 | 2026-10-12 03:11 | Serbia | Zaječarski | ATEX Equipment/Services | 5 | 2 | 3 |
 | 2026-10-12 04:09 | Serbia | Zaječarski | Utensilerie e Macchine Utensili | 5 | 0 | 5 |
 | 2026-10-12 05:10 | Serbia | Zaječarski | Metalworking / Lavorazioni Metalliche | 5 | 0 | 5 |
+| 2026-10-12 06:05 | Serbia | Zlatiborski | Cleaning | 4 | 0 | 4 |
