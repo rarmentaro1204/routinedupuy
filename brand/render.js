@@ -1,0 +1,1 @@
+const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage();await p.goto('file://'+process.cwd()+'/techflex_ultraflex.html',{waitUntil:'networkidle'});await p.pdf({path:'techflex_ultraflex.pdf',format:'A4',printBackground:true,preferCSSPageSize:true});await b.close()})()
