@@ -6,7 +6,7 @@ def tbl(head,rows,cls=''):
 def grp(img,label,head,rows):
     return f'<div class="grp"><div class="gl"><img src="img/{img}.png"><span>{label}</span></div>{tbl(head,rows)}</div>'
 def page(title_it,title_en,body,section='Estrazione fumi · Fume extraction'):
-    return f'''<section class="page"><header><div><h1>{title_it}</h1><p class="sub">{title_en}</p></div><div class="sec">Welding<br><small>{section}</small></div></header>{body}<footer>Dupuy · Via Enrico de Nicola 27 - 10036 Settimo Torinese (TO) · Tel. +39 011 8975444 · info@dupuy.it</footer></section>'''
+    return f'''<section class="page"><header><div><img class="logo" src="img/logo_dupuy_white.png"><h1>{title_it}</h1><p class="sub">{title_en}</p></div><div class="sec">Welding<br><small>{section}</small></div></header>{body}<footer>Dupuy · Via Enrico de Nicola 27 - 10036 Settimo Torinese (TO) · Tel. +39 011 8975444 · info@dupuy.it</footer></section>'''
 CD=['Codice · Code','Descrizione · Description']
 def codes(prefix,items,desc):
     return [[c,desc.format(*d)] for c,d in items]
@@ -85,5 +85,6 @@ table.num td:not(:first-child),table.num th:not(:first-child){{text-align:center
 .grp{{display:grid;grid-template-columns:30mm 1fr;gap:4mm;margin-bottom:3mm;align-items:start}}.gl{{text-align:center;font-weight:700;font-size:7.5pt}}.gl img{{max-width:26mm;max-height:20mm;display:block;margin:0 auto 1mm}}
 .note{{font-size:7.5pt;color:#4a5870}}
 h2{{margin-top:3.5mm}}.cols3 p{{font-size:7.6pt;line-height:1.3}}.page{{padding-bottom:20mm}}td{{padding:.7mm 2mm}}.grp{{margin-bottom:2mm}}.gl img{{max-height:12mm}}.gl{{font-size:7pt!important;line-height:1.2}}img.hero{{max-height:48mm}}
+img.logo{{height:9mm;display:block;margin-bottom:3mm}}.grp{{margin-bottom:1.5mm}}h3{{margin-top:2mm}}
 footer{{position:absolute;left:0;right:0;bottom:0;background:{BLUE};color:#fff;font-size:7pt;padding:3mm 14mm;text-align:center}}'''
 open('techflex_ultraflex.html','w').write(f'<!doctype html><html lang="it"><head><meta charset="utf-8"><title>Techflex</title><style>{css}</style></head><body>{pages}</body></html>')
