@@ -12,7 +12,7 @@ export const app = express();
 app.use(express.json({ limit: '12mb' }));
 app.use('/vendor/msal-browser.js', (req, res) =>
   res.sendFile(path.resolve('node_modules/@azure/msal-browser/lib/msal-browser.min.js')));
-app.use(express.static(new URL('../public/', import.meta.url).pathname));
+app.use(express.static(new URL('../public/', import.meta.url).pathname, { setHeaders: (res, f) => { if (f.endsWith('sw.js')) res.set('Cache-Control', 'no-cache'); } }));
 
 const bad = (msg) => Object.assign(new Error(msg), { status: 400 });
 const isDate = s => /^\d{4}-\d{2}-\d{2}$/.test(s || '') && !isNaN(Date.parse(s));

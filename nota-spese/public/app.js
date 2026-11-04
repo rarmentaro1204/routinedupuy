@@ -255,3 +255,5 @@ function receiptSheet(trip, image) {
   try { (await initAuth()) ? viewDashboard() : viewLogin(); }
   catch (e) { $app.innerHTML = `<div class="empty">Errore: ${esc(e.message)}</div>`; }
 })();
+
+if ('serviceWorker' in navigator) navigator.serviceWorker.register('/sw.js').catch(() => {});

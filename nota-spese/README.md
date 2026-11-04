@@ -33,6 +33,11 @@ Avvio: `node --env-file=.env server/index.js` (Node ≥ 22.13).
 ### 3. HTTPS obbligatorio
 La fotocamera e l'accesso Microsoft funzionano solo su **HTTPS**. Pubblicate dietro un reverse proxy / servizio con certificato (es. Azure App Service, un VPS con Caddy/nginx). Il disco `data/` (SQLite + copie locali degli scontrini) va tenuto su un volume persistente e nel backup.
 
+## Installare l'app sulla home del telefono (per gli impiegati)
+- **iPhone (Safari)**: aprire il link → tasto Condividi → **Aggiungi alla schermata Home**.
+- **Android (Chrome)**: aprire il link → menu ⋮ → **Installa app** / **Aggiungi a schermata Home**.
+Si apre a tutto schermo con l'icona "Nota Spese". Serve connessione per scattare/salvare gli scontrini (la scansione e il caricamento su OneDrive avvengono online).
+
 ## Come funziona la sicurezza
 - Il browser ottiene da Microsoft un token (MSAL); il server lo verifica interrogando Microsoft Graph (`/me`) e **riusa lo stesso token per scrivere sul OneDrive di quell'utente**: il server non ha mai accesso a OneDrive di altri e non memorizza password/token.
 - Ogni dipendente vede solo le proprie trasferte.
