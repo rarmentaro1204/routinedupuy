@@ -1,0 +1,21 @@
+{
+  "name": "nota-spese",
+  "version": "1.0.0",
+  "description": "Nota spese da foto scontrino: login Microsoft, scansione con Claude, OneDrive, export Excel",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "DEV_AUTH=1 node --watch server/index.js",
+    "test": "node --test test/*.test.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.4.0",
+    "@azure/msal-browser": "^5.27.0",
+    "exceljs": "^4.4.0",
+    "express": "^5.3.0"
+  }
+}
