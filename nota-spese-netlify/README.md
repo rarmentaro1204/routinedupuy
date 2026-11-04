@@ -1,54 +1,32 @@
-# Nota Spese — versione per Netlify
+# Nota Spese — versione semplice (solo pagina statica)
 
-Pagina statica (`public/`) + **una sola funzione Netlify** (`netlify/functions/scan.mjs`) che legge lo scontrino con Claude.
-Non c'è database: ogni trasferta è un file `trasferta.json` nella cartella OneDrive dell'impiegato, accanto alle foto degli scontrini
-(`Note Spese/<data> <luogo> (#id)/`). L'amministrazione vede quelle cartelle in sola lettura. L'Excel si genera nel browser sul modulo originale.
+Nessun server, nessun login, nessuna chiave: sono **solo file statici** (`public/`). Si pubblica su Netlify anche trascinando la cartella `public`.
 
-## Pubblicare (in ordine)
+**Flusso**
+1. Prima volta: l'impiegato scrive nome e reparto (compaiono nell'Excel).
+2. Crea una nota spese (luogo, dal/al, cliente/evento) → compare nella dashboard.
+3. **+ Aggiungi giustificativo** → si apre la fotocamera → scatta lo scontrino → sceglie la tipologia, inserisce data, importo, metodo di pagamento (descrizione e note facoltative).
+4. **Chiudi trasferta** → **Scarica Excel** (il vostro modulo compilato, da controllare e firmare) e **Scarica foto (ZIP)** da inviare all'amministrazione.
 
-### 1. Registrare l'app in Microsoft Entra ID (serve un amministratore M365)
-Entra → *App registrations* → *New registration*:
-- Account types: **solo questa directory**.
-- Redirect URI, tipo **Single-page application**: l'URL Netlify **con "/" finale** (es. `https://nomesito.netlify.app/`).
-  Quando avrete il sublink aggiungete anche quello (es. `https://www.azienda.it/notespese/`). Ogni indirizzo da cui si accede va registrato.
-- *API permissions* → Microsoft Graph → **Delegated** `User.Read` e `Files.ReadWrite` → *Grant admin consent*.
+Dati e foto restano **nel browser del telefono** (IndexedDB). Niente va online.
 
-### 2. Compilare `public/config.js`
-`clientId`, `tenantId`, `adminEmails` (chi deve vedere gli scontrini). Sono valori pubblici, non segreti.
-
-### 3. Pubblicare su Netlify
-Il modo più semplice è collegare il repository GitHub: *Add new site → Import from Git*,
-**Base directory** `nota-spese-netlify`, **Publish directory** `public`, **Functions directory** `netlify/functions` (già in `netlify.toml`).
-In alternativa da terminale, dentro `nota-spese-netlify`: `npx netlify deploy --prod`.
-> Il trascinamento manuale della cartella nel sito Netlify ("drag & drop") pubblica le pagine ma può **non** includere la funzione: senza funzione la lettura dello scontrino non parte (si può comunque compilare a mano). Meglio Git o CLI.
-
-### 4. Variabili d'ambiente (Netlify → Site configuration → Environment variables)
-| Nome | Valore |
-|---|---|
-| `ANTHROPIC_API_KEY` | la chiave API Anthropic (**segreta**, solo qui) |
-| `ALLOWED_DOMAIN` | es. `azienda.it` — solo e-mail di quel dominio possono usare la scansione (consigliato: evita che altri consumino la vostra chiave) |
-| `CLAUDE_MODEL` | facoltativa, default `claude-sonnet-5-5` |
-| `ALLOWED_ORIGINS` | solo se l'app sta su un dominio diverso da Netlify (vedi sotto) |
-
-### 5. Sublink (es. `www.azienda.it/notespese`)
-I percorsi dell'app sono relativi, quindi funziona sotto qualsiasi sottocartella. Chi gestisce il sito aziendale deve inoltrare
-`/notespese/*` al sito Netlify (reverse proxy o rewrite con stato 200). Poi:
-1. aggiungere `https://www.azienda.it/notespese/` ai Redirect URI di Entra;
-2. se il proxy **non** inoltra anche `/.netlify/functions/*`, in `config.js` mettere in `scanUrl` l'URL completo `https://nomesito.netlify.app/.netlify/functions/scan` e su Netlify `ALLOWED_ORIGINS=https://www.azienda.it`.
+## Pubblicare su Netlify
+- Più semplice: <https://app.netlify.com/drop> → trascina la cartella **`public`**. Subito online su HTTPS (serve per fotocamera e installazione sul telefono).
+- Oppure collega il repository: Base directory `nota-spese-netlify`, Publish directory `public` (già in `netlify.toml`).
+- Sublink (`www.azienda.it/notespese`): i percorsi sono relativi, funziona sotto qualsiasi sottocartella; chi gestisce il sito inoltra `/notespese/*` al sito Netlify (reverse proxy / rewrite 200).
 
 ## Installare sul telefono
 iPhone (Safari): Condividi → Aggiungi alla schermata Home. Android (Chrome): ⋮ → Installa app.
+**Meglio installarla**: da icona in home iPhone/Safari non cancella i dati dopo qualche giorno di inattività, come invece può fare con un semplice sito aperto nel browser.
+
+## Cose da sapere
+- **I dati sono solo su quel telefono.** Cancellare i dati del browser, disinstallare l'app o cambiare telefono li perde: l'impiegato deve scaricare Excel e ZIP a fine trasferta. L'amministrazione riceve le foto solo se l'impiegato le invia.
+- **15 spese per trasferta** (righe del modulo). Valute estere: si inserisce l'importo in € e si annota l'originale in Note.
+- Non c'è lettura automatica degli scontrini né controllo dell'identità: nome e reparto sono quelli digitati.
+
+## Versione completa messa da parte (nella cronologia git)
+Login Microsoft, lettura scontrini con Claude e salvataggio su OneDrive per impiegato con cartella visibile all'amministrazione sono nel commit
+"Versione Netlify: pagina statica + funzione di scansione, dati su OneDrive" (e, con server, nella cartella `nota-spese/`). Si può riprendere quando servirà.
 
 ## Test
-```bash
-node --test test/scan.test.mjs         # funzione di scansione (token, dominio, CORS, errori)
-node test/e2e.cjs                       # browser reale con OneDrive/Claude simulati (serve playwright)
-```
-
-## Da sapere
-- **15 spese per trasferta** (righe del modulo). Valute estere: l'importo in € lo inserisce l'impiegato.
-- "Carta Aziendale" è il default per i pagamenti con carta (modificabile); con `companyCardLast4` si distinguono le carte personali.
-- Eliminare una spesa/trasferta la toglie dall'app ma **le foto restano su OneDrive** (traccia per l'amministrazione).
-- Se l'impiegato cancella la cartella `Note Spese` da OneDrive, perde anche i dati delle trasferte.
-- La funzione Netlify ha un limite di tempo (10 s di default): la lettura di uno scontrino richiede in genere pochi secondi; se scade, l'app permette di compilare a mano.
-- Non provato contro un tenant Microsoft e una chiave Claude reali: il primo giro va fatto con un account di prova. Punto da verificare per primo: lettura/scrittura OneDrive dal browser e condivisione con l'amministrazione.
+`node test/e2e.cjs` — browser reale (richiede playwright): profilo, trasferta, scontrini, riavvio, Excel e ZIP.

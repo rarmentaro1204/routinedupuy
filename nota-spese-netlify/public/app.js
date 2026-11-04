@@ -1,13 +1,9 @@
 (() => {
-const CFG = window.APP_CONFIG;
 const CATEGORIES = ['Trasporti', 'Carburante', 'Pedaggi', 'Taxi', 'Parcheggio', 'Hotel', 'Pasti', 'Altro'];
 const PAYMENTS = ['Carta Aziendale', 'Carta Personale', 'Contanti', 'Bonifico'];
 const MAX_ROWS = 15;   // righe del modulo (14-28)
-const SCOPES = ['User.Read', 'Files.ReadWrite'];
-const G = 'https://graph.microsoft.com/v1.0';
 
 const $app = document.getElementById('app'), $who = document.getElementById('who'), $title = document.getElementById('title');
-let pca, account, user;
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
 const eur = n => Number(n || 0).toLocaleString('it-IT', { style: 'currency', currency: 'EUR' });
@@ -16,106 +12,42 @@ const val = id => document.getElementById(id).value;
 const toast = m => { const t = document.getElementById('toast'); t.textContent = m; t.classList.add('show'); setTimeout(() => t.classList.remove('show'), 4000); };
 const num = v => { if (v === '' || v == null) return null; const n = Number(String(v).replace(',', '.')); return Number.isFinite(n) ? n : NaN; };
 const isDate = s => /^\d{4}-\d{2}-\d{2}$/.test(s || '') && !isNaN(Date.parse(s));
-const safe = s => String(s).replace(/[\\/:*?"<>|#%~&{}]/g, '-').replace(/\s+/g, ' ').trim().slice(0, 60) || 'x';
+const today = () => { const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`; };
 const newId = () => Date.now().toString(36) + Math.random().toString(36).slice(2, 5);
+const safe = s => String(s).replace(/[^\w\-À-ÿ]+/g, '_').replace(/^_+|_+$/g, '').slice(0, 40) || 'x';
 
-// ================= autenticazione Microsoft =================
-const redirectUri = () => location.origin + location.pathname.replace(/index\.html$/, '');
-
-async function initAuth() {
-  if (CFG.devAuth) { user = { id: 'dev', name: 'Mario Rossi (TEST)', department: 'Commerciale', email: 'dev@example.com' }; return true; }
-  pca = new msal.PublicClientApplication({
-    auth: { clientId: CFG.clientId, authority: `https://login.microsoftonline.com/${CFG.tenantId}`, redirectUri: redirectUri() },
-    cache: { cacheLocation: 'localStorage' },
+// ================= archivio sul telefono (IndexedDB) =================
+// trips: una riga per trasferta (con le sue spese) · photos: le foto degli scontrini
+const dbp = new Promise((res, rej) => {
+  if (!window.indexedDB) return rej(new Error('Archivio non disponibile in questo browser'));
+  const r = indexedDB.open('notaspese', 1);
+  r.onupgradeneeded = () => { r.result.createObjectStore('trips', { keyPath: 'id' }); r.result.createObjectStore('photos'); };
+  r.onsuccess = () => res(r.result); r.onerror = () => rej(r.error);
+});
+const store = async (name, mode, fn) => {
+  const db = await dbp;
+  return new Promise((res, rej) => {
+    const t = db.transaction(name, mode); const req = fn(t.objectStore(name));
+    t.oncomplete = () => res(req?.result); t.onerror = () => rej(t.error); t.onabort = () => rej(t.error || new Error('Salvataggio annullato'));
   });
-  await pca.initialize();
-  const res = await pca.handleRedirectPromise();
-  account = res?.account || pca.getAllAccounts()[0];
-  if (!account) return false;
-  pca.setActiveAccount(account);
-  const me = await gj('/me?$select=id,displayName,mail,userPrincipalName,department');
-  user = { id: me.id, name: me.displayName, department: me.department || '', email: me.mail || me.userPrincipalName };
-  return true;
-}
-const login = () => pca.loginRedirect({ scopes: SCOPES });
-const logout = () => pca.logoutRedirect({ account });
+};
+const allTrips = () => store('trips', 'readonly', s => s.getAll());
+const saveTrip = t => store('trips', 'readwrite', s => s.put(t));
+const delTrip = id => store('trips', 'readwrite', s => s.delete(id));
+const putPhoto = (key, blob) => store('photos', 'readwrite', s => s.put(blob, key));
+const getPhoto = key => store('photos', 'readonly', s => s.get(key));
+const delPhoto = key => store('photos', 'readwrite', s => s.delete(key));
+const photoKey = (t, e) => `${t.id}/${e.id}`;
 
-async function getToken() {
-  if (CFG.devAuth) return 'dev';
-  try { return (await pca.acquireTokenSilent({ scopes: SCOPES, account })).accessToken; }
-  catch { await pca.acquireTokenRedirect({ scopes: SCOPES }); return new Promise(() => {}); }
-}
+// profilo dell'impiegato (nome e reparto compaiono nell'Excel)
+const getProfile = () => { try { return JSON.parse(localStorage.getItem('profilo') || 'null'); } catch { return null; } };
+const setProfile = p => { try { localStorage.setItem('profilo', JSON.stringify(p)); } catch {} };
+let profile = getProfile();
 
-// ================= Microsoft Graph / OneDrive =================
-async function g(method, path, { json, body, type } = {}) {
-  const r = await fetch(G + path, {
-    method,
-    headers: { Authorization: 'Bearer ' + await getToken(), ...(json ? { 'Content-Type': 'application/json' } : {}), ...(type ? { 'Content-Type': type } : {}) },
-    body: json ? JSON.stringify(json) : body,
-  });
-  if (!r.ok) throw Object.assign(new Error(`OneDrive/Graph ${r.status}: ${(await r.text()).slice(0, 160)}`), { status: r.status });
-  return r;
-}
-const gj = async (path, o) => (await g('GET', path, o)).json();
-const encPath = p => p.split('/').map(encodeURIComponent).join('/');
-const drivePath = p => `/me/drive/root:/${encPath(p)}`;
-
-// Le trasferte vivono su OneDrive: <radice>/<cartella trasferta>/trasferta.json + le foto degli scontrini
-const tripFile = t => `${CFG.oneDriveRoot}/${t.folder}/trasferta.json`;
-
-async function loadTrips() {
-  let kids;
-  try { kids = (await gj(drivePath(CFG.oneDriveRoot) + ':/children?$select=name,folder&$top=200')).value; }
-  catch (e) { if (e.status === 404) return []; throw e; }
-  const trips = await Promise.all(kids.filter(k => k.folder).map(async k => {
-    try { return await (await g('GET', drivePath(`${CFG.oneDriveRoot}/${k.name}/trasferta.json`) + ':/content')).json(); } catch { return null; }
-  }));
-  return trips.filter(t => t && !t.deleted && t.owner?.id === user.id)
-    .sort((a, b) => (b.date_from + b.created_at).localeCompare(a.date_from + a.created_at));
-}
-async function saveTrip(t) {
-  await g('PUT', drivePath(tripFile(t)) + ':/content', { body: JSON.stringify(t), type: 'application/json' });
-}
-async function uploadReceipt(t, name, blob) {
-  const item = await (await g('PUT', drivePath(`${CFG.oneDriveRoot}/${t.folder}/${name}`) + ':/content?@microsoft.graph.conflictBehavior=rename',
-    { body: blob, type: 'image/jpeg' })).json();
-  return { file: item.name, url: item.webUrl };
-}
-// Condivide (sola lettura) la cartella radice con l'amministrazione. Idempotente, una volta per dispositivo.
-async function ensureShared() {
-  if (CFG.devAuth && !CFG.adminEmails?.length) return;
-  if (!CFG.adminEmails?.length) return;
-  const flag = 'shared:' + user.id;
-  try { if (localStorage.getItem(flag)) return; } catch {}
-  const root = await gj(drivePath(CFG.oneDriveRoot));
-  await g('POST', `/me/drive/items/${root.id}/invite`, { json: {
-    recipients: CFG.adminEmails.map(email => ({ email })), roles: ['read'], requireSignIn: true, sendInvitation: false,
-    message: `Note spese di ${user.name}` } });
-  try { localStorage.setItem(flag, '1'); } catch {}
-}
-async function receiptUrl(t, file) {
-  return (await gj(drivePath(`${CFG.oneDriveRoot}/${t.folder}/${file}`)))['@microsoft.graph.downloadUrl'];
-}
-
-// ================= lettura scontrino (funzione Netlify → Claude) =================
-async function scan(image) {
-  const r = await fetch(CFG.scanUrl, { method: 'POST', headers: { Authorization: 'Bearer ' + await getToken(), 'Content-Type': 'application/json' }, body: JSON.stringify({ image }) });
-  const j = await r.json().catch(() => ({}));
-  if (!r.ok) throw new Error(j.error || `Errore ${r.status}`);
-  let payment = null;
-  if (j.metodo_pagamento === 'contanti') payment = 'Contanti';
-  else if (j.metodo_pagamento === 'carta') {
-    const cards = CFG.companyCardLast4 || [];
-    payment = (cards.length && j.carta_ultime4 && !cards.includes(j.carta_ultime4)) ? 'Carta Personale' : 'Carta Aziendale';
-  }
-  const cur = (j.valuta || 'EUR').toUpperCase();
-  return { readable: !!j.leggibile, language: j.lingua || '', merchant: j.esercente || '', date: j.data || null,
-    amount: j.importo_totale, currency: cur, amountEur: cur === 'EUR' ? j.importo_totale : null, payment, description: j.descrizione || '' };
-}
-
-// ================= Excel (sul modulo originale) =================
+// ================= Excel (sul modulo originale) + ZIP foto =================
 const toDate = iso => { const [y, m, d] = iso.split('-').map(Number); return new Date(Date.UTC(y, m - 1, d)); };
 const fmt = (cell, numFmt) => { cell.style = { ...cell.style, numFmt }; }; // gli stili del modulo sono condivisi: va copiato l'oggetto
+const sorted = t => [...t.expenses].sort((a, b) => a.date.localeCompare(b.date));
 
 async function buildExcel(t) {
   const tpl = await (await fetch('template/Modulo_Nota_Spese.xlsx')).arrayBuffer();
@@ -124,13 +56,12 @@ async function buildExcel(t) {
   ws.getCell('B5').value = t.owner.name; ws.getCell('B6').value = t.owner.department;
   ws.getCell('B7').value = t.client; ws.getCell('B8').value = t.destination;
   for (const [c, iso] of [['B9', t.date_from], ['B10', t.date_to]]) { ws.getCell(c).value = toDate(iso); fmt(ws.getCell(c), 'dd/mm/yyyy'); }
-  [...t.expenses].sort((a, b) => a.date.localeCompare(b.date)).forEach((e, i) => {
+  sorted(t).forEach((e, i) => {
     const r = 14 + i;
     ws.getCell(`A${r}`).value = toDate(e.date); fmt(ws.getCell(`A${r}`), 'dd/mm/yyyy');
     ws.getCell(`B${r}`).value = e.category; ws.getCell(`C${r}`).value = e.description; ws.getCell(`D${r}`).value = e.payment;
     ws.getCell(`E${r}`).value = e.amount; fmt(ws.getCell(`E${r}`), '#,##0.00');
-    const note = [e.notes, e.orig_currency && e.orig_currency !== 'EUR' ? `${e.orig_amount} ${e.orig_currency}` : ''].filter(Boolean).join(' - ');
-    if (note) ws.getCell(`F${r}`).value = note;
+    if (e.notes) ws.getCell(`F${r}`).value = e.notes;
     ws.getCell(`G${r}`).value = 'SI';
   });
   if (t.km_rate != null) ws.getCell('B32').value = t.km_rate;
@@ -138,28 +69,47 @@ async function buildExcel(t) {
   wb.calcProperties.fullCalcOnLoad = true;
   return wb.xlsx.writeBuffer();
 }
+const baseName = t => `${safe(t.owner.name)}_${t.date_from}_${safe(t.destination)}`;
+function download(blob, name) {
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = name;
+  document.body.append(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 60000);
+}
+async function buildZip(t) {
+  const zip = new JSZip();
+  let n = 0;
+  for (const e of sorted(t)) {
+    const b = await getPhoto(photoKey(t, e)); if (!b) continue;
+    zip.file(`${String(++n).padStart(2, '0')}_${e.date}_${safe(e.category)}_${e.amount.toFixed(2)}.jpg`, b);
+  }
+  return zip.generateAsync({ type: 'blob' });
+}
 
 // ================= viste =================
 function setHeader(title, back) {
   $title.innerHTML = back ? `<button class="link" style="color:#fff;font-size:18px" id="back">← ${esc(title)}</button>` : esc(title);
   if (back) document.getElementById('back').onclick = back;
-  $who.innerHTML = user && !back ? `${esc(user.name)} ${CFG.devAuth ? '' : '<button id="out">Esci</button>'}` : '';
-  const o = document.getElementById('out'); if (o) o.onclick = logout;
+  $who.innerHTML = profile && !back ? `${esc(profile.name)} <button id="prof">Profilo</button>` : '';
+  const o = document.getElementById('prof'); if (o) o.onclick = () => viewProfile(viewDashboard);
 }
 const fab = (label, fn) => { const b = document.createElement('button'); b.className = 'btn fab'; b.textContent = label; b.onclick = fn; $app.append(b); };
 const total = t => t.expenses.reduce((s, e) => s + e.amount, 0);
 
-function viewLogin() {
-  setHeader('Nota Spese');
-  $app.innerHTML = `<div class="login"><h2>Note spese di trasferta</h2><p class="mut">Accedi con il tuo account aziendale Microsoft.</p><button class="btn" id="go">Accedi con Microsoft</button></div>`;
-  document.getElementById('go').onclick = login;
+function viewProfile(next) {
+  setHeader('Il tuo profilo', profile ? next : null);
+  $app.innerHTML = `<div class="card"><p class="mut">Nome e reparto compaiono nel modulo Excel. I dati e le foto restano su questo telefono.</p>
+    <label>Nome e cognome *</label><input id="p_name" value="${esc(profile?.name)}" autocomplete="name">
+    <label>Reparto *</label><input id="p_dep" value="${esc(profile?.department)}" autocomplete="off">
+    <div class="actions"><button class="btn" id="save">Salva</button></div></div>`;
+  document.getElementById('save').onclick = () => {
+    const name = val('p_name').trim(), department = val('p_dep').trim();
+    if (!name || !department) return toast('Compila nome e reparto');
+    profile = { name, department }; setProfile(profile); next();
+  };
 }
 
 async function viewDashboard() {
   setHeader('Le mie note spese');
-  $app.innerHTML = '<div class="empty">Caricamento…</div>';
-  let trips;
-  try { trips = await loadTrips(); } catch (e) { $app.innerHTML = `<div class="empty">Impossibile leggere OneDrive.<br>${esc(e.message)}</div>`; return; }
+  const trips = (await allTrips()).sort((a, b) => (b.date_from + b.created_at).localeCompare(a.date_from + a.created_at));
   $app.innerHTML = trips.length ? '' : '<div class="empty">Nessuna nota spese.<br>Creane una con il pulsante qui sotto.</div>';
   for (const t of trips) {
     const c = document.createElement('div'); c.className = 'card click';
@@ -187,22 +137,17 @@ function readTripForm() {
 
 function viewNewTrip() {
   setHeader('Nuova nota spese', viewDashboard);
-  const today = new Date().toISOString().slice(0, 10);
-  $app.innerHTML = `<div class="card">${tripForm({ date_from: today, date_to: today })}<div class="actions"><button class="btn" id="save">Crea nota spese</button></div></div>`;
+  $app.innerHTML = `<div class="card">${tripForm({ date_from: today(), date_to: today() })}<div class="actions"><button class="btn" id="save">Crea nota spese</button></div></div>`;
   document.getElementById('save').onclick = async ev => {
     ev.target.disabled = true;
     try {
-      const f = readTripForm(), id = newId();
-      const t = { id, folder: `${f.date_from} ${safe(f.destination)} (${id})`, owner: { id: user.id, name: user.name, department: user.department, email: user.email },
-        ...f, km_rate: null, km: null, status: 'open', created_at: new Date().toISOString(), closed_at: null, deleted: false, expenses: [] };
-      await saveTrip(t);
-      ensureShared().catch(e => toast('Cartella creata, ma condivisione con l\'amministrazione non riuscita: ' + e.message));
-      viewTrip(t);
+      const t = { id: newId(), owner: { ...profile }, ...readTripForm(), km_rate: null, km: null, status: 'open', created_at: new Date().toISOString(), closed_at: null, expenses: [] };
+      await saveTrip(t); viewTrip(t);
     } catch (e) { toast(e.message); ev.target.disabled = false; }
   };
 }
 
-function viewTrip(t) {
+async function viewTrip(t) {
   setHeader('Trasferta', viewDashboard);
   const open = t.status === 'open';
   $app.innerHTML = `<div class="card"><div class="row"><span class="big">${esc(t.destination)}</span><span class="badge ${open ? '' : 'closed'}">${open ? 'In corso' : 'Chiusa'}</span></div>
@@ -210,17 +155,18 @@ function viewTrip(t) {
     <div class="row" style="margin-top:8px"><span class="mut">Totale spese</span><b class="big">${eur(total(t))}</b></div>
     ${open ? '<button class="link" id="edit">Modifica dati trasferta</button>' : ''}</div>`;
   if (!t.expenses.length) $app.insertAdjacentHTML('beforeend', '<div class="empty">Nessun giustificativo.<br>Fotografa il primo scontrino.</div>');
-  for (const e of [...t.expenses].sort((a, b) => a.date.localeCompare(b.date))) {
+  for (const e of sorted(t)) {
     const c = document.createElement('div'); c.className = 'card exp';
-    c.innerHTML = `<img alt="" id="img${e.id}"><div class="grow"><div><b>${esc(e.description || e.merchant || e.category)}</b></div>
+    c.innerHTML = `<img alt="" id="img${e.id}"><div class="grow"><div><b>${esc(e.description || e.category)}</b></div>
       <div class="mut">${dIt(e.date)} · ${esc(e.category)} · ${esc(e.payment)}</div></div>
       <div style="text-align:right"><b>${eur(e.amount)}</b>${open ? `<br><button class="link" data-del="${e.id}">Elimina</button>` : ''}</div>`;
     $app.append(c);
-    receiptUrl(t, e.file).then(u => { const i = document.getElementById('img' + e.id); if (i && u) i.src = u; }).catch(() => {});
+    getPhoto(photoKey(t, e)).then(b => { const i = document.getElementById('img' + e.id); if (i && b) i.src = URL.createObjectURL(b); });
+    c.querySelector('img').onclick = () => showPhoto(t, e);
   }
   $app.querySelectorAll('[data-del]').forEach(b => b.onclick = async () => {
-    if (!confirm('Eliminare questa spesa? La foto resta archiviata su OneDrive.')) return;
-    try { t.expenses = t.expenses.filter(x => x.id !== b.dataset.del); await saveTrip(t); viewTrip(t); } catch (e) { toast(e.message); }
+    if (!confirm('Eliminare questa spesa e la sua foto?')) return;
+    try { const e = t.expenses.find(x => x.id === b.dataset.del); t.expenses = t.expenses.filter(x => x !== e); await saveTrip(t); await delPhoto(photoKey(t, e)); viewTrip(t); } catch (err) { toast(err.message); }
   });
   if (open) {
     document.getElementById('edit').onclick = () => editTrip(t);
@@ -236,37 +182,36 @@ function viewTrip(t) {
       catch (e) { toast(e.message); ev.target.disabled = false; }
     };
     document.getElementById('del').onclick = async () => {
-      if (!confirm("Eliminare l'intera nota spese? Le foto restano archiviate su OneDrive.")) return;
-      try { t.deleted = true; await saveTrip(t); viewDashboard(); } catch (e) { toast(e.message); }
+      if (!confirm("Eliminare l'intera nota spese e tutte le foto? Non si può annullare.")) return;
+      try { for (const e of t.expenses) await delPhoto(photoKey(t, e)); await delTrip(t.id); viewDashboard(); } catch (e) { toast(e.message); }
     };
     fab('+  Aggiungi giustificativo', () => addReceipt(t));
   } else {
-    $app.insertAdjacentHTML('beforeend', `<div class="card mut">Trasferta chiusa. Scarica il file, controllalo, modificalo se serve e firmalo.</div>
-      <div class="actions"><button class="btn" id="xl">⬇ Scarica Excel</button><button class="btn sec" id="reopen">Riapri trasferta</button></div>`);
-    document.getElementById('xl').onclick = async ev => {
-      ev.target.disabled = true;
-      try {
-        const buf = await buildExcel(t);
-        const a = document.createElement('a');
-        a.href = URL.createObjectURL(new Blob([buf], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' }));
-        a.download = `Nota_Spese_${t.owner.name.replace(/[^\w]+/g, '_')}_${t.date_from}.xlsx`;
-        document.body.append(a); a.click(); a.remove();
-      } catch (e) { toast('Excel non generato: ' + e.message); }
-      ev.target.disabled = false;
+    $app.insertAdjacentHTML('beforeend', `<div class="card mut"><b>1.</b> Scarica l'Excel, controllalo, modificalo se serve e firmalo.<br><b>2.</b> Scarica le foto e invia tutto all'amministrazione.</div>
+      <div class="actions"><button class="btn" id="xl">⬇ Scarica Excel</button><button class="btn" id="zp">⬇ Scarica foto scontrini (ZIP)</button><button class="btn sec" id="reopen">Riapri trasferta</button></div>`);
+    const run = (id, fn) => document.getElementById(id).onclick = async ev => {
+      ev.target.disabled = true; try { await fn(); } catch (e) { toast('Errore: ' + e.message); } ev.target.disabled = false;
     };
-    document.getElementById('reopen').onclick = async () => { try { t.status = 'open'; t.closed_at = null; await saveTrip(t); viewTrip(t); } catch (e) { toast(e.message); } };
+    run('xl', async () => download(new Blob([await buildExcel(t)], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' }), `Nota_Spese_${baseName(t)}.xlsx`));
+    run('zp', async () => download(await buildZip(t), `Scontrini_${baseName(t)}.zip`));
+    run('reopen', async () => { t.status = 'open'; t.closed_at = null; await saveTrip(t); viewTrip(t); });
   }
+}
+
+async function showPhoto(t, e) {
+  const b = await getPhoto(photoKey(t, e)); if (!b) return;
+  const el = document.createElement('div'); el.className = 'sheet'; el.style.background = '#000';
+  el.innerHTML = `<div class="inner"><button class="link" style="color:#fff" id="c">← Chiudi</button><img class="preview" style="max-height:none;margin-top:12px" src="${URL.createObjectURL(b)}" alt="Scontrino"></div>`;
+  document.body.append(el); el.querySelector('#c').onclick = () => el.remove();
 }
 
 function editTrip(t) {
   setHeader('Modifica trasferta', () => viewTrip(t));
   $app.innerHTML = `<div class="card">${tripForm(t)}<div class="actions"><button class="btn" id="save">Salva</button></div></div>`;
-  document.getElementById('save').onclick = async () => {
-    try { Object.assign(t, readTripForm()); await saveTrip(t); viewTrip(t); } catch (e) { toast(e.message); }
-  };
+  document.getElementById('save').onclick = async () => { try { Object.assign(t, readTripForm()); await saveTrip(t); viewTrip(t); } catch (e) { toast(e.message); } };
 }
 
-// ================= aggiungi giustificativo: fotocamera → Claude → conferma =================
+// ================= aggiungi giustificativo: fotocamera → dati a mano =================
 function addReceipt(t) {
   if (t.expenses.length >= MAX_ROWS) return toast(`Il modulo ha spazio per ${MAX_ROWS} spese: apri una nuova nota spese.`);
   const inp = document.createElement('input');
@@ -274,72 +219,66 @@ function addReceipt(t) {
   inp.onchange = async () => { if (inp.files[0]) { try { receiptSheet(t, await shrink(inp.files[0])); } catch (e) { toast('Foto non leggibile: ' + e.message); } } };
   inp.click();
 }
+// ridimensiona (max 1800px) e comprime: scontrino leggibile ma leggero
 async function shrink(file, max = 1800) {
   const bmp = await createImageBitmap(file, { imageOrientation: 'from-image' });
   const k = Math.min(1, max / Math.max(bmp.width, bmp.height));
   const c = document.createElement('canvas'); c.width = Math.round(bmp.width * k); c.height = Math.round(bmp.height * k);
   c.getContext('2d').drawImage(bmp, 0, 0, c.width, c.height);
-  return c.toDataURL('image/jpeg', 0.85);
+  return new Promise((res, rej) => c.toBlob(b => b ? res(b) : rej(new Error('compressione fallita')), 'image/jpeg', 0.85));
 }
 
-function receiptSheet(t, image) {
-  const s = { category: null, currency: 'EUR', language: '', merchant: '' };
+function receiptSheet(t, photo) {
+  const s = { category: null };
+  const d0 = today() >= t.date_from && today() <= t.date_to ? today() : t.date_from;
+  const lastPay = (() => { try { return localStorage.getItem('ultimoPagamento') || ''; } catch { return ''; } })();
   const el = document.createElement('div'); el.className = 'sheet';
   el.innerHTML = `<div class="inner"><div class="row"><b class="big">Nuovo giustificativo</b><button class="link" id="x">Annulla</button></div>
-    <img class="preview" src="${image}" alt="Scontrino" style="margin-top:12px">
-    <div class="scan" id="scan"><div class="spin"></div><div>Claude sta leggendo lo scontrino…</div></div>
+    <img class="preview" src="${URL.createObjectURL(photo)}" alt="Scontrino" style="margin-top:12px">
     <label>Tipologia di spesa *</label>
     <div class="chips">${CATEGORIES.map(c => `<button type="button" class="chip" data-c="${esc(c)}">${esc(c)}</button>`).join('')}</div>
-    <div class="grid2"><div><label>Data *</label><input id="r_date" type="date" value="${t.date_from}"></div>
-      <div><label>Metodo di pagamento *</label><select id="r_pay"><option value="">—</option>${PAYMENTS.map(p => `<option>${esc(p)}</option>`).join('')}</select></div></div>
-    <label>Descrizione</label><input id="r_desc" autocomplete="off">
-    <div class="grid2"><div><label id="l_amt">Importo € *</label><input id="r_amt" inputmode="decimal" placeholder="0,00"></div><div id="orig" hidden><label>Importo scontrino</label><input id="r_orig" disabled></div></div>
-    <label>Note</label><input id="r_notes" autocomplete="off">
+    <div class="grid2"><div><label>Data *</label><input id="r_date" type="date" value="${d0}"></div>
+      <div><label>Importo € *</label><input id="r_amt" inputmode="decimal" placeholder="0,00"></div></div>
+    <label>Metodo di pagamento *</label>
+    <div class="chips" id="pays">${PAYMENTS.map(p => `<button type="button" class="chip${p === lastPay ? ' on' : ''}" data-p="${esc(p)}">${esc(p)}</button>`).join('')}</div>
+    <label>Descrizione</label><input id="r_desc" autocomplete="off" placeholder="es. Pranzo con cliente">
+    <label>Note</label><input id="r_notes" autocomplete="off" placeholder="es. importo originale 45 CHF">
     <div class="actions"><button class="btn" id="ok" disabled>Salva giustificativo</button></div></div>`;
   document.body.append(el);
+  s.payment = PAYMENTS.includes(lastPay) ? lastPay : null;
   const q = id => el.querySelector('#' + id);
-  const refresh = () => { q('ok').disabled = !(s.category && q('r_pay').value && q('r_date').value && num(q('r_amt').value) > 0); };
+  const refresh = () => { q('ok').disabled = !(s.category && s.payment && q('r_date').value && num(q('r_amt').value) > 0); };
   q('x').onclick = () => el.remove();
-  el.querySelectorAll('.chip').forEach(b => b.onclick = () => { s.category = b.dataset.c; el.querySelectorAll('.chip').forEach(x => x.classList.toggle('on', x === b)); refresh(); });
-  ['r_pay', 'r_date', 'r_amt'].forEach(i => q(i).oninput = refresh);
-
-  scan(image).then(r => {
-    s.language = r.language; s.merchant = r.merchant; s.currency = r.currency; s.orig = r.amount;
-    if (!r.readable) { q('scan').className = 'scan err'; q('scan').textContent = 'Scontrino poco leggibile: compila i campi a mano o rifai la foto.'; return; }
-    if (r.date) q('r_date').value = r.date;
-    if (r.payment) q('r_pay').value = r.payment;
-    q('r_desc').value = r.description;
-    if (r.amountEur != null) q('r_amt').value = String(r.amountEur).replace('.', ',');
-    if (r.currency !== 'EUR') { q('orig').hidden = false; q('r_orig').value = `${r.amount ?? ''} ${r.currency}`; q('l_amt').textContent = `Importo in € * (scontrino in ${r.currency})`; }
-    const out = r.date && (r.date < t.date_from || r.date > t.date_to);
-    q('scan').className = 'scan ok';
-    q('scan').innerHTML = `<div>Lingua: <b>${esc(r.language || '?')}</b>${r.merchant ? ' · ' + esc(r.merchant) : ''} — controlla i dati e scegli la tipologia.` +
-      (out ? `<br><b>Attenzione:</b> la data dello scontrino (${dIt(r.date)}) è fuori dal periodo della trasferta.` : '') + '</div>';
-    refresh();
-  }).catch(e => { q('scan').className = 'scan err'; q('scan').textContent = 'Lettura non riuscita (' + e.message + '). Puoi compilare a mano.'; });
+  el.querySelectorAll('[data-c]').forEach(b => b.onclick = () => { s.category = b.dataset.c; el.querySelectorAll('[data-c]').forEach(x => x.classList.toggle('on', x === b)); refresh(); });
+  el.querySelectorAll('[data-p]').forEach(b => b.onclick = () => { s.payment = b.dataset.p; el.querySelectorAll('[data-p]').forEach(x => x.classList.toggle('on', x === b)); refresh(); });
+  ['r_date', 'r_amt'].forEach(i => q(i).oninput = refresh);
+  refresh();
 
   q('ok').onclick = async () => {
-    q('ok').disabled = true; q('ok').textContent = 'Upload su OneDrive…';
+    q('ok').disabled = true;
     try {
-      const e = { id: newId(), date: q('r_date').value, category: s.category, payment: q('r_pay').value, description: q('r_desc').value.trim().slice(0, 120),
-        amount: num(q('r_amt').value), notes: q('r_notes').value.trim(), language: s.language, merchant: s.merchant,
-        orig_amount: s.currency !== 'EUR' ? (s.orig ?? null) : null, orig_currency: s.currency !== 'EUR' ? s.currency : null };
+      const e = { id: newId(), date: q('r_date').value, category: s.category, payment: s.payment, description: q('r_desc').value.trim().slice(0, 120),
+        amount: Math.round(num(q('r_amt').value) * 100) / 100, notes: q('r_notes').value.trim() };
       if (!isDate(e.date)) throw new Error('Data non valida');
-      if (!(e.amount > 0) || e.amount > 100000) throw new Error('Importo in € non valido');
-      const blob = await (await fetch(image)).blob();
-      const up = await uploadReceipt(t, `${e.date}_${e.category}_${e.amount.toFixed(2)}_${e.id}.jpg`, blob);   // prima la foto…
-      Object.assign(e, up); t.expenses.push(e);
-      await saveTrip(t);                                                                                          // …poi la riga
-      ensureShared().catch(() => {});
+      if (!(e.amount > 0) || e.amount > 100000) throw new Error('Importo non valido');
+      if (e.date < t.date_from || e.date > t.date_to) {
+        if (!confirm(`La data (${dIt(e.date)}) è fuori dal periodo della trasferta. Salvare lo stesso?`)) { q('ok').disabled = false; return; }
+      }
+      await putPhoto(photoKey(t, e), photo);      // prima la foto…
+      t.expenses.push(e); await saveTrip(t);       // …poi la riga
+      try { localStorage.setItem('ultimoPagamento', e.payment); } catch {}
       el.remove(); viewTrip(t);
-    } catch (err) { toast(err.message); q('ok').disabled = false; q('ok').textContent = 'Salva giustificativo'; }
+    } catch (err) { toast(err.message); q('ok').disabled = false; }
   };
 }
 
 // ================= avvio =================
 (async () => {
-  try { (await initAuth()) ? viewDashboard() : viewLogin(); }
-  catch (e) { $app.innerHTML = `<div class="empty">Errore: ${esc(e.message)}</div>`; }
+  try {
+    await dbp;
+    try { navigator.storage?.persist?.(); } catch {}   // chiede al browser di non cancellare i dati
+    profile ? viewDashboard() : viewProfile(viewDashboard);
+  } catch (e) { $app.innerHTML = `<div class="empty">Errore: ${esc(e.message)}</div>`; }
 })();
 if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 })();
