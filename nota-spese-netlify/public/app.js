@@ -74,6 +74,16 @@ function download(blob, name) {
   const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = name;
   document.body.append(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 60000);
 }
+const isIOS = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.maxTouchPoints > 1 && /Mac/.test(navigator.platform));
+async function deliver(blob, name) {
+  if (isIOS && navigator.canShare) {
+    const file = new File([blob], name, { type: blob.type });
+    if (navigator.canShare({ files: [file] })) {
+      try { await navigator.share({ files: [file], title: name }); return; } catch (e) { if (e.name === 'AbortError') return; }
+    }
+  }
+  download(blob, name);
+}
 async function buildZip(t) {
   const zip = new JSZip();
   let n = 0;
@@ -192,8 +202,8 @@ async function viewTrip(t) {
     const run = (id, fn) => document.getElementById(id).onclick = async ev => {
       ev.target.disabled = true; try { await fn(); } catch (e) { toast('Errore: ' + e.message); } ev.target.disabled = false;
     };
-    run('xl', async () => download(new Blob([await buildExcel(t)], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' }), `Nota_Spese_${baseName(t)}.xlsx`));
-    run('zp', async () => download(await buildZip(t), `Scontrini_${baseName(t)}.zip`));
+    run('xl', async () => deliver(new Blob([await buildExcel(t)], { type: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' }), `Nota_Spese_${baseName(t)}.xlsx`));
+    run('zp', async () => deliver(await buildZip(t), `Scontrini_${baseName(t)}.zip`));
     run('reopen', async () => { t.status = 'open'; t.closed_at = null; await saveTrip(t); viewTrip(t); });
   }
 }
@@ -214,17 +224,33 @@ function editTrip(t) {
 // ================= aggiungi giustificativo: fotocamera → dati a mano =================
 function addReceipt(t) {
   if (t.expenses.length >= MAX_ROWS) return toast(`Il modulo ha spazio per ${MAX_ROWS} spese: apri una nuova nota spese.`);
+  // L'input deve stare nella pagina: su iPhone (soprattutto dalla home) un input non agganciato viene eliminato
+  // dal browser prima che arrivi la foto e lo scatto sembra "non funzionare".
   const inp = document.createElement('input');
-  inp.type = 'file'; inp.accept = 'image/*'; inp.capture = 'environment';   // apre la fotocamera posteriore sul telefono
-  inp.onchange = async () => { if (inp.files[0]) { try { receiptSheet(t, await shrink(inp.files[0])); } catch (e) { toast('Foto non leggibile: ' + e.message); } } };
+  inp.type = 'file'; inp.accept = 'image/*'; inp.setAttribute('capture', 'environment');   // fotocamera posteriore
+  inp.style.cssText = 'position:fixed;left:-9999px;top:0;opacity:0;width:1px;height:1px';
+  document.body.append(inp);
+  inp.addEventListener('change', async () => {
+    const f = inp.files[0]; inp.remove();
+    if (!f) return;
+    try { receiptSheet(t, await shrink(f)); } catch (e) { toast('Foto non leggibile: ' + e.message); }
+  });
+  inp.addEventListener('cancel', () => inp.remove());
   inp.click();
+}
+// Carica la foto; se il browser non supporta createImageBitmap con le opzioni (Safari meno recenti) usa un <img>
+async function loadImage(file) {
+  try { const b = await createImageBitmap(file, { imageOrientation: 'from-image' }); return { src: b, w: b.width, h: b.height }; } catch {}
+  const url = URL.createObjectURL(file); const img = new Image(); img.src = url;
+  try { await img.decode(); } catch { throw new Error('formato immagine non supportato'); }
+  URL.revokeObjectURL(url); return { src: img, w: img.naturalWidth, h: img.naturalHeight };
 }
 // ridimensiona (max 1800px) e comprime: scontrino leggibile ma leggero
 async function shrink(file, max = 1800) {
-  const bmp = await createImageBitmap(file, { imageOrientation: 'from-image' });
-  const k = Math.min(1, max / Math.max(bmp.width, bmp.height));
-  const c = document.createElement('canvas'); c.width = Math.round(bmp.width * k); c.height = Math.round(bmp.height * k);
-  c.getContext('2d').drawImage(bmp, 0, 0, c.width, c.height);
+  const im = await loadImage(file);
+  const k = Math.min(1, max / Math.max(im.w, im.h));
+  const c = document.createElement('canvas'); c.width = Math.round(im.w * k); c.height = Math.round(im.h * k);
+  c.getContext('2d').drawImage(im.src, 0, 0, c.width, c.height);
   return new Promise((res, rej) => c.toBlob(b => b ? res(b) : rej(new Error('compressione fallita')), 'image/jpeg', 0.85));
 }
 

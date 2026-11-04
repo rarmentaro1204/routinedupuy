@@ -1,5 +1,5 @@
 // Service worker minimo: salva l'app sul telefono così si apre anche senza rete.
-const CACHE = 'nota-spese-v2';
+const CACHE = 'nota-spese-v3';
 const SHELL = ['./', 'style.css', 'app.js', 'vendor/exceljs.min.js', 'vendor/jszip.min.js', 'template/Modulo_Nota_Spese.xlsx', 'manifest.webmanifest', 'icon-192.png'];
 self.addEventListener('install', e => { e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL))); self.skipWaiting(); });
 self.addEventListener('activate', e => {
