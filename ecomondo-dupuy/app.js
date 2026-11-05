@@ -88,8 +88,9 @@
       if (r.dm && r.dm.length) {
         h += '<ul>' + r.dm.map((p) => {
           const href = p.url || li(p.name + ' ' + r.name);
-          return `<li><a href="${attr(href)}" target="_blank" rel="noopener">${esc(p.name)}</a> — ${esc(p.role)}</li>`;
-        }).join('') + '</ul><div class="src">Da fonti web pubbliche: verificare su LinkedIn prima del contatto.</div>';
+          const src = p.src ? ` <a class="src" href="${attr(p.src)}" target="_blank" rel="noopener">[fonte]</a>` : '';
+          return `<li><a href="${attr(href)}" target="_blank" rel="noopener" title="Cerca su LinkedIn">${esc(p.name)}</a> — ${esc(p.role)}${src}</li>`;
+        }).join('') + '</ul><div class="src">Nome → ricerca LinkedIn. Da fonti web pubbliche, anche aggregatori: verificare prima del contatto.</div>';
       } else {
         h += ' <span class="src">— nessun nominativo verificato: usa le ricerche LinkedIn qui sotto.</span>';
       }
