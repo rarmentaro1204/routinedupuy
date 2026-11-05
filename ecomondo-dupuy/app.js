@@ -192,7 +192,7 @@
             <div class="stop-name">${esc(r.name)} <span class="score-s">${'★'.repeat(r.score)}</span></div>
             <div class="stop-meta">${esc(r.ruolo)}${r.city || r.country ? ' · ' + esc([r.city, r.country].filter(Boolean).join(', ')) : ''}${other.length ? ' · anche in ' + esc(other.join(', ')) : ''}</div>
             <div class="stop-why">${esc(r.perche)}</div>
-            ${r.dm && r.dm.length ? `<div class="stop-dm">👤 ${r.dm.slice(0, 3).map((p) => esc(p.name) + ' (' + esc(p.role) + ')').join(' · ')}</div>` : ''}
+            ${dmBlock(r)}
           </div>
           <div class="stop-act">
             ${r.web ? `<a class="btn primary sm" href="${attr(r.web)}" target="_blank" rel="noopener">Sito ↗</a>` : ''}
@@ -209,6 +209,17 @@
         '</ul></section>';
     }
     list.innerHTML = h;
+  }
+
+  function dmBlock(r) {
+    const short = r.short || r.name;
+    if (r.dm && r.dm.length) {
+      return '<div class="stop-dm"><span class="dm-lbl">Decision maker</span><ul>' + r.dm.map((p) =>
+        `<li><a href="${attr(p.url || li(p.name + ' ' + short))}" target="_blank" rel="noopener" title="Apri su LinkedIn"><b>${esc(p.name)}</b></a> — ${esc(p.role)}${p.src ? ` <a class="src" href="${attr(p.src)}" target="_blank" rel="noopener">[fonte]</a>` : ''}</li>`
+      ).join('') + '</ul></div>';
+    }
+    return `<div class="stop-dm none"><span class="dm-lbl">Decision maker</span> da individuare · cerca su LinkedIn: ` +
+      D.dmRoles.slice(0, 3).map(([lbl, kw]) => `<a href="${attr(li(short + ' ' + kw))}" target="_blank" rel="noopener">${esc(lbl)}</a>`).join(' · ') + '</div>';
   }
 
   // ---------- Vista schede ----------
