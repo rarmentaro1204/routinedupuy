@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Ecomondo 2026 · Lead Dupuy</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-inner">
+    <div class="brand">
+      <span class="logo">DUPUY</span>
+      <span class="sub">Ecomondo 2026 · Rimini · Lead commerciali</span>
+    </div>
+    <div class="kpis" id="kpis"></div>
+  </div>
+</header>
+
+<section class="filters wrap" aria-label="Filtri">
+  <input id="q" type="search" placeholder="Cerca azienda, attività, città, decision maker…" autocomplete="off">
+  <div class="row">
+    <label>Segmento<select id="fSeg"><option value="">Tutti</option></select></label>
+    <label>Ruolo<select id="fRole"><option value="">Tutti</option></select></label>
+    <label>Priorità<select id="fScore">
+      <option value="0">Tutte</option>
+      <option value="5">★★★★★ solo top</option>
+      <option value="4" selected>★★★★ e oltre</option>
+      <option value="3">★★★ e oltre</option>
+      <option value="2">★★ e oltre</option>
+    </select></label>
+    <label>Paese<select id="fCountry"><option value="">Tutti</option></select></label>
+    <label>Ordina<select id="fSort">
+      <option value="score">Priorità</option>
+      <option value="name">Nome A→Z</option>
+      <option value="pos">Padiglione</option>
+    </select></label>
+    <label class="chk"><input type="checkbox" id="fFocus"> Solo energia · biomasse · riciclo</label>
+    <label class="chk"><input type="checkbox" id="fDm"> Con decision maker</label>
+    <button id="csv" class="btn ghost" type="button">Esporta CSV</button>
+  </div>
+  <div class="count" id="count"></div>
+</section>
+
+<main class="wrap grid" id="list"></main>
+
+<footer class="wrap foot">
+  Fonte: catalogo espositori <a href="https://www.ecomondo.com/it/catalogo/espositori" target="_blank" rel="noopener">ecomondo.com</a> (scaricato il <span id="asof"></span>).
+  Valutazione fit e motivazioni generate automaticamente: verificare prima del contatto. I nominativi dei decision maker provengono da fonti web pubbliche e vanno confermati su LinkedIn.
+</footer>
+
+<template id="tpl">
+  <article class="card">
+    <div class="card-head">
+      <div>
+        <h2 class="name"></h2>
+        <div class="meta"></div>
+      </div>
+      <div class="score" title="Priorità per Dupuy"></div>
+    </div>
+    <div class="tags"></div>
+    <p class="why"></p>
+    <div class="dm"></div>
+    <div class="actions"></div>
+  </article>
+</template>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
