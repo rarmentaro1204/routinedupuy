@@ -21,6 +21,15 @@
   </div>
 </header>
 
+<section class="mapbox wrap" aria-label="Mappa padiglioni">
+  <div class="map-head">
+    <h2>Mappa padiglioni · Rimini Expo Centre</h2>
+    <span class="map-hint">Il numero indica i lead in quel padiglione con i filtri attuali. Clicca un padiglione per filtrare, clicca di nuovo per togliere il filtro.</span>
+  </div>
+  <div class="map-scroll"><svg id="map" viewBox="0 0 1000 250" role="img" aria-label="Pianta schematica dei padiglioni"></svg></div>
+  <div class="map-extra" id="mapExtra"></div>
+</section>
+
 <section class="filters wrap" aria-label="Filtri">
   <input id="q" type="search" placeholder="Cerca azienda, attività, città, decision maker…" autocomplete="off">
   <div class="row">
@@ -34,14 +43,15 @@
       <option value="2">★★ e oltre</option>
     </select></label>
     <label>Paese<select id="fCountry"><option value="">Tutti</option></select></label>
-    <label>Ordina<select id="fSort">
-      <option value="score">Priorità</option>
-      <option value="name">Nome A→Z</option>
-      <option value="pos">Padiglione</option>
+    <label>Padiglione<select id="fHall"><option value="">Tutti</option></select></label>
+    <label>Vista<select id="fView">
+      <option value="route">Percorso per padiglione</option>
+      <option value="cards">Schede per priorità</option>
     </select></label>
     <label class="chk"><input type="checkbox" id="fFocus"> Solo energia · biomasse · riciclo</label>
     <label class="chk"><input type="checkbox" id="fDm"> Con decision maker</label>
     <button id="csv" class="btn ghost" type="button">Esporta CSV</button>
+    <button id="print" class="btn ghost" type="button">Stampa percorso</button>
   </div>
   <div class="count" id="count"></div>
 </section>

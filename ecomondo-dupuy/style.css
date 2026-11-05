@@ -23,7 +23,7 @@ a{color:inherit}
 .kpi{text-align:right}
 .kpi b{display:block;font-size:22px;font-weight:800;line-height:1}
 .kpi span{font-size:12px;opacity:.8}
-.filters{position:sticky;top:0;z-index:5;background:var(--bg);padding-top:14px;padding-bottom:10px;border-bottom:1px solid var(--line)}
+.filters{position:relative;z-index:5;background:var(--bg);padding-top:14px;padding-bottom:10px;border-bottom:1px solid var(--line)}
 #q{width:100%;font:inherit;font-size:16px;padding:10px 14px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
 .row{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:end;margin-top:10px}
 .row label{display:flex;flex-direction:column;font-size:12px;font-weight:700;color:var(--muted);gap:2px}
@@ -62,3 +62,58 @@ a{color:inherit}
 .btn.disabled{opacity:.45;pointer-events:none}
 .foot{font-size:12px;color:var(--muted);padding-bottom:30px}
 .empty{grid-column:1/-1;text-align:center;color:var(--muted);padding:40px}
+
+/* ---- Mappa ---- */
+.mapbox{padding-top:16px}
+.map-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 14px}
+.map-head h2{font-size:18px;font-weight:800;margin:0}
+.map-hint{font-size:13px;color:var(--muted)}
+.map-scroll{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:10px;margin-top:8px;padding:6px}
+#map{display:block;width:100%;min-width:720px;height:auto}
+#map .m-cor{fill:var(--chip)}
+#map .m-ent{fill:var(--chip);stroke:var(--line)}
+#map .m-ent-t{font-size:10px;fill:var(--muted);text-anchor:middle;font-weight:700}
+#map .m-hall{cursor:pointer;outline:none}
+#map .m-hall rect{fill:var(--bg);stroke:var(--blue);stroke-width:1.2;transition:filter .15s}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) #map .m-hall rect{stroke:#7f93b5}}
+#map .m-hall.zero rect{opacity:.55}
+#map .m-hall:hover rect,#map .m-hall:focus rect{filter:brightness(.9);stroke-width:2.5}
+#map .m-hall.active rect{stroke:var(--red);stroke-width:3.5}
+#map .m-l{font-size:13px;font-weight:800;text-anchor:middle;fill:var(--ink);pointer-events:none}
+#map .m-n{font-size:15px;font-weight:800;text-anchor:middle;fill:var(--ink);pointer-events:none}
+#map .m-hall.small .m-n{font-size:12px}
+.map-extra{font-size:13px;color:var(--muted);margin-top:6px;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.chip-hall{font:inherit;font-size:12px;font-weight:700;background:var(--chip);color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:2px 10px;cursor:pointer}
+.chip-hall.active{border-color:var(--red);color:var(--red)}
+
+/* ---- Vista percorso ---- */
+body.view-route .grid{display:block}
+.hall-block{margin-bottom:18px}
+.hall-block h3{font-size:17px;font-weight:800;margin:0 0 8px;display:flex;align-items:center;gap:10px;position:sticky;top:0;background:var(--bg);padding:6px 0;z-index:2}
+.hall-block h3 small{font-size:13px;color:var(--muted);font-weight:600}
+.hall-badge{background:var(--blue);color:#fff;border-radius:6px;padding:0 10px;min-width:44px;text-align:center}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .hall-badge{background:var(--red)}}
+.route{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.stop{display:grid;grid-template-columns:70px 1fr auto;gap:12px;align-items:start;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:10px 12px}
+.stop.top5{border-left:4px solid var(--red)}
+.stop-stand{font-weight:800;font-size:16px;color:var(--red);word-break:break-word}
+.stop-name{font-weight:800}
+.score-s{color:var(--red);font-size:12px;letter-spacing:1px;margin-left:4px}
+.stop-meta{font-size:12px;color:var(--muted)}
+.stop-why{font-size:14px;margin-top:2px}
+.stop-dm{font-size:12px;color:var(--muted);margin-top:3px}
+.stop-act{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end;max-width:210px}
+.btn.sm{font-size:13px;padding:4px 10px}
+@media (max-width:640px){
+  .stop{grid-template-columns:54px 1fr}
+  .stop-act{grid-column:1/-1;justify-content:flex-start;max-width:none}
+}
+
+@media print{
+  .top,.mapbox,.filters .row,#q,.foot,.stop-act{display:none!important}
+  .filters{position:static;border:0}
+  body{background:#fff;color:#000;font-size:11px}
+  .stop{break-inside:avoid;border:1px solid #ccc;padding:5px 8px;grid-template-columns:55px 1fr}
+  .hall-block h3{position:static}
+  .hall-block{break-inside:auto}
+}
